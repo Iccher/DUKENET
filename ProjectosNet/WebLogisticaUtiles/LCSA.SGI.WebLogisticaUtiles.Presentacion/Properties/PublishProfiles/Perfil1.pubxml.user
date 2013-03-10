@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile>2013-03-09T18:00:29.1495426-05:00</TimeStampOfAssociatedLegacyPublishXmlFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Themes/Granite/Default.css">
+      <publishTime>11/28/2012 10:32:59</publishTime>
+    </File>
+    <File Include="App_Themes/Granite/EstilosFlotante.css">
+      <publishTime>11/28/2012 10:32:59</publishTime>
+    </File>
+    <File Include="App_Themes/Granite/Skins.skin">
+      <publishTime>11/28/2012 10:32:59</publishTime>
+    </File>
+    <File Include="App_Themes/Paper/Default.css">
+      <publishTime>11/28/2012 10:32:59</publishTime>
+    </File>
+    <File Include="App_Themes/Paper/Skins.skin">
+      <publishTime>11/28/2012 10:32:59</publishTime>
+    </File>
+    <File Include="App_Themes/Sand/Default.css">
+      <publishTime>11/28/2012 10:32:59</publishTime>
+    </File>
+    <File Include="App_Themes/Sand/Skins.skin">
+      <publishTime>11/28/2012 10:32:59</publishTime>
+    </File>
+    <File Include="bin/LCSA.SGI.WebLogisticaUtiles.Bussness.dll">
+      <publishTime>01/08/2013 12:48:35</publishTime>
+    </File>
+    <File Include="bin/LCSA.SGI.WebLogisticaUtiles.Bussness.pdb">
+      <publishTime>01/08/2013 12:48:35</publishTime>
+    </File>
+    <File Include="bin/LCSA.SGI.WebLogisticaUtiles.Data.dll">
+      <publishTime>01/08/2013 12:48:35</publishTime>
+    </File>
+    <File Include="bin/LCSA.SGI.WebLogisticaUtiles.Data.pdb">
+      <publishTime>01/08/2013 12:48:35</publishTime>
+    </File>
+    <File Include="bin/LCSA.SGI.WebLogisticaUtiles.Entity.dll">
+      <publishTime>01/08/2013 12:48:33</publishTime>
+    </File>
+    <File Include="bin/LCSA.SGI.WebLogisticaUtiles.Entity.pdb">
+      <publishTime>01/08/2013 12:48:33</publishTime>
+    </File>
+    <File Include="bin/LCSA.SGI.WebLogisticaUtiles.Presentacion.dll">
+      <publishTime>01/08/2013 12:48:36</publishTime>
+    </File>
+    <File Include="bin/LCSA.SGI.WebLogisticaUtiles.Presentacion.pdb">
+      <publishTime>01/08/2013 12:48:35</publishTime>
+    </File>
+    <File Include="Flash/catmangueras.swf">
+      <publishTime>05/24/2012 22:37:46</publishTime>
+    </File>
+    <File Include="Flash/catservicios.swf">
+      <publishTime>05/24/2012 22:37:46</publishTime>
+    </File>
+    <File Include="Flash/inicio.swf">
+      <publishTime>05/24/2012 22:37:46</publishTime>
+    </File>
+    <File Include="Flash/iniciobaja.swf">
+      <publishTime>05/24/2012 22:37:46</publishTime>
+    </File>
+    <File Include="Flash/peli.swf">
+      <publishTime>05/24/2012 22:37:46</publishTime>
+    </File>
+    <File Include="Flash/Película1.swf">
+      <publishTime>05/24/2012 22:37:46</publishTime>
+    </File>
+    <File Include="Flash/radialesmejor.swf">
+      <publishTime>05/24/2012 22:37:46</publishTime>
+    </File>
+    <File Include="Flash/rot1.swf">
+      <publishTime>05/24/2012 22:37:46</publishTime>
+    </File>
+    <File Include="Flash/TICO.swf">
+      <publishTime>05/24/2012 22:37:46</publishTime>
+    </File>
+    <File Include="Flash/TIRE1%281%29.swf">
+      <publishTime>05/24/2012 22:37:46</publishTime>
+    </File>
+    <File Include="Flash/TIRE1.swf">
+      <publishTime>05/24/2012 22:37:46</publishTime>
+    </File>
+    <File Include="Images/Aprobado.ico">
+      <publishTime>05/24/2012 22:37:36</publishTime>
+    </File>
+    <File Include="Images/APROBAR.BMP">
+      <publishTime>05/24/2012 22:37:36</publishTime>
+    </File>
+    <File Include="Images/bg_tile.gif">
+      <publishTime>05/24/2012 22:37:36</publishTime>
+    </File>
+    <File Include="Images/BUSCAR.BMP">
+      <publishTime>05/24/2012 22:37:36</publishTime>
+    </File>
+    <File Include="Images/Buscar.ico">
+      <publishTime>05/24/2012 22:37:36</publishTime>
+    </File>
+    <File Include="Images/car.gif">
+      <publishTime>05/24/2012 22:37:36</publishTime>
+    </File>
+    <File Include="Images/car111.jpg">
+      <publishTime>05/24/2012 22:37:36</publishTime>
+    </File>
+    <File Include="Images/Edit.ico">
+      <publishTime>05/24/2012 22:37:36</publishTime>
+    </File>
+    <File Include="Images/EditarPeq.gif">
+      <publishTime>05/24/2012 22:37:36</publishTime>
+    </File>
+    <File Include="Images/ELIMINA.BMP">
+      <publishTime>05/24/2012 22:37:36</publishTime>
+    </File>
+    <File Include="Images/Eliminar.gif">
+      <publishTime>05/24/2012 22:37:36</publishTime>
+    </File>
+    <File Include="Images/freeway.gif">
+      <publishTime>05/24/2012 22:37:36</publishTime>
+    </File>
+    <File Include="Images/freeway111.jpg">
+      <publishTime>05/24/2012 22:37:36</publishTime>
+    </File>
+    <File Include="Images/header_bg.png">
+      <publishTime>05/24/2012 22:37:36</publishTime>
+    </File>
+    <File Include="Images/HojitaNueva.BMP">
+      <publishTime>05/24/2012 22:37:36</publishTime>
+    </File>
+    <File Include="Images/LapicitoBorrar.bmp">
+      <publishTime>05/24/2012 22:37:36</publishTime>
+    </File>
+    <File Include="Images/logo.gif">
+      <publishTime>05/24/2012 22:37:36</publishTime>
+    </File>
+    <File Include="Images/LOGO.jpg">
+      <publishTime>05/24/2012 22:37:36</publishTime>
+    </File>
+    <File Include="Images/logo_small.gif">
+      <publishTime>05/24/2012 22:37:36</publishTime>
+    </File>
+    <File Include="Images/main_bg.png">
+      <publishTime>05/24/2012 22:37:36</publishTime>
+    </File>
+    <File Include="Images/Materiales_oficina.png">
+      <publishTime>05/24/2012 22:37:37</publishTime>
+    </File>
+    <File Include="Images/oficina.jpg">
+      <publishTime>05/24/2012 22:37:37</publishTime>
+    </File>
+    <File Include="Images/sailing.gif">
+      <publishTime>05/24/2012 22:37:37</publishTime>
+    </File>
+    <File Include="Images/sailing111.jpg">
+      <publishTime>05/24/2012 22:37:37</publishTime>
+    </File>
+    <File Include="Images/stock_report.gif">
+      <publishTime>05/24/2012 22:37:37</publishTime>
+    </File>
+    <File Include="MasterPage/AppMaster.Master">
+      <publishTime>05/29/2012 17:50:58</publishTime>
+    </File>
+    <File Include="MasterPage/AppMaster2.Master">
+      <publishTime>05/30/2012 16:11:54</publishTime>
+    </File>
+    <File Include="MasterPage/AppMenu.Master">
+      <publishTime>12/03/2012 09:43:26</publishTime>
+    </File>
+    <File Include="MasterPage/AppMenu2.Master">
+      <publishTime>06/28/2012 17:03:43</publishTime>
+    </File>
+    <File Include="MasterPage/Creditos.css">
+      <publishTime>11/28/2012 10:29:20</publishTime>
+    </File>
+    <File Include="MenuDinamico.aspx">
+      <publishTime>12/03/2012 09:19:44</publishTime>
+    </File>
+    <File Include="Utiles/Sistemas/WebCambioContrasenaUtil.aspx">
+      <publishTime>09/10/2012 15:09:51</publishTime>
+    </File>
+    <File Include="Utiles/Sistemas/WebConfiguracionUtil.aspx">
+      <publishTime>09/10/2012 15:10:08</publishTime>
+    </File>
+    <File Include="Utiles/Sistemas/WebConfiguracionUtilFloat.aspx">
+      <publishTime>05/25/2012 10:44:22</publishTime>
+    </File>
+    <File Include="Utiles/Transaccion/WebAprobacionReqUtiles.aspx">
+      <publishTime>11/28/2012 10:11:01</publishTime>
+    </File>
+    <File Include="Utiles/Transaccion/WebBusquedaArticulo.aspx">
+      <publishTime>08/20/2012 11:46:12</publishTime>
+    </File>
+    <File Include="Utiles/Transaccion/WebBusquedaGral.aspx">
+      <publishTime>06/28/2012 16:51:01</publishTime>
+    </File>
+    <File Include="Utiles/Transaccion/WebConsultaConsumos.aspx">
+      <publishTime>09/10/2012 10:59:06</publishTime>
+    </File>
+    <File Include="Utiles/Transaccion/WebConsultaSolicitudUtiles.aspx">
+      <publishTime>11/28/2012 11:36:13</publishTime>
+    </File>
+    <File Include="Utiles/Transaccion/WebNewSolicitudUtiles.aspx">
+      <publishTime>09/10/2012 15:11:13</publishTime>
+    </File>
+    <File Include="Utiles/Transaccion/WebSolicitudUtiles.aspx">
+      <publishTime>11/28/2012 09:40:56</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/29/2012 17:03:03</publishTime>
+    </File>
+    <File Include="WebLogin.aspx">
+      <publishTime>09/10/2012 15:09:28</publishTime>
+    </File>
+    <File Include="WebMenuPrincipal.aspx">
+      <publishTime>09/10/2012 15:09:28</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
