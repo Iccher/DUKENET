@@ -64,6 +64,3 @@ C:\Users\proyecto\DUKENET\WebLogisticaUtiles\LCSA.SGI.WebLogisticaUtiles.Data\ob
 C:\Users\proyecto\DUKENET\WebLogisticaUtiles\LCSA.SGI.WebLogisticaUtiles.Data\obj\Debug\LCSA.SGI.WebLogisticaUtiles.Data.csproj.ResolveComReference.cache
 C:\Users\proyecto\DUKENET\WebLogisticaUtiles\LCSA.SGI.WebLogisticaUtiles.Data\obj\Debug\LCSA.SGI.WebLogisticaUtiles.Data.dll
 C:\Users\proyecto\DUKENET\WebLogisticaUtiles\LCSA.SGI.WebLogisticaUtiles.Data\obj\Debug\LCSA.SGI.WebLogisticaUtiles.Data.pdb
-C:\Users\Ronalc\Documents\GitHub\DUKENET\ProjectosNet\WebLogisticaUtiles\LCSA.SGI.WebLogisticaUtiles.Data\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Ronalc\Documents\GitHub\DUKENET\ProjectosNet\WebLogisticaUtiles\LCSA.SGI.WebLogisticaUtiles.Data\obj\Debug\LCSA.SGI.WebLogisticaUtiles.Data.dll
-C:\Users\Ronalc\Documents\GitHub\DUKENET\ProjectosNet\WebLogisticaUtiles\LCSA.SGI.WebLogisticaUtiles.Data\obj\Debug\LCSA.SGI.WebLogisticaUtiles.Data.pdb
