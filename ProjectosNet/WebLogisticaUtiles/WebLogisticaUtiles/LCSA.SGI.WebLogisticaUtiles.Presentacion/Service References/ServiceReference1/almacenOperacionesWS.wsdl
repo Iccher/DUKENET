@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:wsp="http://www.w3.org/ns/ws-policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:tns="http://ws.almacen.com.pe/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsp1_2="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" name="almacenOperacionesWS" targetNamespace="http://ws.almacen.com.pe/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xsd:schema>
+      <xsd:import schemaLocation="http://localhost:49307/AlmacenWS/almacenOperacionesWS?xsd=1" namespace="http://ws.almacen.com.pe/" />
+    </xsd:schema>
+  </types>
+  <message name="solicitarProductos">
+    <part name="parameters" element="tns:solicitarProductos" />
+  </message>
+  <message name="solicitarProductosResponse">
+    <part name="parameters" element="tns:solicitarProductosResponse" />
+  </message>
+  <message name="obtenerProdutos">
+    <part name="parameters" element="tns:obtenerProdutos" />
+  </message>
+  <message name="obtenerProdutosResponse">
+    <part name="parameters" element="tns:obtenerProdutosResponse" />
+  </message>
+  <portType name="AlmacenOperacionesWS">
+    <operation name="solicitarProductos">
+      <input wsam:Action="http://ws.almacen.com.pe/AlmacenOperacionesWS/solicitarProductosRequest" message="tns:solicitarProductos" />
+      <output wsam:Action="http://ws.almacen.com.pe/AlmacenOperacionesWS/solicitarProductosResponse" message="tns:solicitarProductosResponse" />
+    </operation>
+    <operation name="obtenerProdutos">
+      <input wsam:Action="http://ws.almacen.com.pe/AlmacenOperacionesWS/obtenerProdutosRequest" message="tns:obtenerProdutos" />
+      <output wsam:Action="http://ws.almacen.com.pe/AlmacenOperacionesWS/obtenerProdutosResponse" message="tns:obtenerProdutosResponse" />
+    </operation>
+  </portType>
+  <binding name="AlmacenOperacionesWSPortBinding" type="tns:AlmacenOperacionesWS">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <operation name="solicitarProductos">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+    <operation name="obtenerProdutos">
+      <soap:operation soapAction="" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="almacenOperacionesWS">
+    <port name="AlmacenOperacionesWSPort" binding="tns:AlmacenOperacionesWSPortBinding">
+      <soap:address location="http://localhost:49307/AlmacenWS/almacenOperacionesWS" />
+    </port>
+  </service>
+</definitions>

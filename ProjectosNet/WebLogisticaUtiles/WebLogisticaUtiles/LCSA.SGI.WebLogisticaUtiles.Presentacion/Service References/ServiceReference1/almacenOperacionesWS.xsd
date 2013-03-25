@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://ws.almacen.com.pe/" targetNamespace="http://ws.almacen.com.pe/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="obtenerProdutos" type="tns:obtenerProdutos" />
+  <xs:element name="obtenerProdutosResponse" type="tns:obtenerProdutosResponse" />
+  <xs:element name="solicitarProductos" type="tns:solicitarProductos" />
+  <xs:element name="solicitarProductosResponse" type="tns:solicitarProductosResponse" />
+  <xs:complexType name="obtenerProdutos">
+    <xs:sequence />
+  </xs:complexType>
+  <xs:complexType name="obtenerProdutosResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="return" type="tns:prod" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="prod">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="MPMCCA" type="xs:string" />
+      <xs:element minOccurs="0" name="MPMCDO" type="xs:string" />
+      <xs:element minOccurs="0" name="MPMCOD" type="xs:string" />
+      <xs:element minOccurs="0" name="MPMCPR" type="xs:string" />
+      <xs:element minOccurs="0" name="MPMCTA" type="xs:string" />
+      <xs:element minOccurs="0" name="MPMDES" type="xs:string" />
+      <xs:element minOccurs="0" name="MPMPRO" type="xs:string" />
+      <xs:element minOccurs="0" name="MPMSCO" type="xs:string" />
+      <xs:element minOccurs="0" name="MPMSDI" type="xs:string" />
+      <xs:element minOccurs="0" name="MPMUBI" type="xs:string" />
+      <xs:element minOccurs="0" name="t01AL1" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="solicitarProductos">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="nombreUsuario" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="productos" type="tns:productoBean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="productoBean">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="cantidadProducto" type="xs:string" />
+      <xs:element minOccurs="0" name="idProducto" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="solicitarProductosResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:solicitarRroductosResp" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="solicitarRroductosResp">
+    <xs:sequence>
+      <xs:element name="codRetorno" type="xs:int" />
+      <xs:element minOccurs="0" name="mensajeRetorno" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
