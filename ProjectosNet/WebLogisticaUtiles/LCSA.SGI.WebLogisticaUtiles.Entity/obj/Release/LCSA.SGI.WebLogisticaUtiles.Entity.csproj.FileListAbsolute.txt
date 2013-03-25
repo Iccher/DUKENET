@@ -1,5 +1,0 @@
-C:\Users\Ronalc\Documents\GitHub\DUKENET\ProjectosNet\WebLogisticaUtiles\LCSA.SGI.WebLogisticaUtiles.Entity\bin\Release\LCSA.SGI.WebLogisticaUtiles.Entity.dll
-C:\Users\Ronalc\Documents\GitHub\DUKENET\ProjectosNet\WebLogisticaUtiles\LCSA.SGI.WebLogisticaUtiles.Entity\bin\Release\LCSA.SGI.WebLogisticaUtiles.Entity.pdb
-C:\Users\Ronalc\Documents\GitHub\DUKENET\ProjectosNet\WebLogisticaUtiles\LCSA.SGI.WebLogisticaUtiles.Entity\obj\Release\ResolveAssemblyReference.cache
-C:\Users\Ronalc\Documents\GitHub\DUKENET\ProjectosNet\WebLogisticaUtiles\LCSA.SGI.WebLogisticaUtiles.Entity\obj\Release\LCSA.SGI.WebLogisticaUtiles.Entity.dll
-C:\Users\Ronalc\Documents\GitHub\DUKENET\ProjectosNet\WebLogisticaUtiles\LCSA.SGI.WebLogisticaUtiles.Entity\obj\Release\LCSA.SGI.WebLogisticaUtiles.Entity.pdb
