@@ -1,0 +1,905 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4069D292-EDD9-438C-8EDC-1E24462A44DD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Logistica.Ingenieria.Presentacion</RootNamespace>
+    <AssemblyName>Logistica.Ingenieria.Presentacion</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>RM.ICO</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp, Version=5.1.2.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\itextsharp-all-5.1.2\itextsharp-dll-core-5.1.2\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MSCOMCTL, Version=10.0.4504.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Program Files\Microsoft Visual Studio 9.0\Visual Studio Tools for Office\PIA\Office12\MSCOMCTL.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Consultas\Frm_Detalle_Adicional.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\Frm_Detalle_Adicional.Designer.cs">
+      <DependentUpon>Frm_Detalle_Adicional.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\Frm_Detalle_Rep_Obsoletos_Sele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\Frm_Detalle_Rep_Obsoletos_Sele.Designer.cs">
+      <DependentUpon>Frm_Detalle_Rep_Obsoletos_Sele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\Frm_Ingreso_AI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\Frm_Ingreso_AI.Designer.cs">
+      <DependentUpon>Frm_Ingreso_AI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\Frm_Anio_ABC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\Frm_Anio_ABC.Designer.cs">
+      <DependentUpon>Frm_Anio_ABC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\Frm_Consulta_Gerencia_Mat_Prima.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\Frm_Consulta_Gerencia_Mat_Prima.Designer.cs">
+      <DependentUpon>Frm_Consulta_Gerencia_Mat_Prima.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\Frm_Consulta_Principal_MP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\Frm_Consulta_Principal_MP.Designer.cs">
+      <DependentUpon>Frm_Consulta_Principal_MP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\Frm_Consulta_Requerimientos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\Frm_Consulta_Requerimientos.Designer.cs">
+      <DependentUpon>Frm_Consulta_Requerimientos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\Frm_Consumos_AI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\Frm_Consumos_AI.Designer.cs">
+      <DependentUpon>Frm_Consumos_AI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\Frm_Consuta_ABC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\Frm_Consuta_ABC.Designer.cs">
+      <DependentUpon>Frm_Consuta_ABC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\Frm_Cons_Req_Detalle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\Frm_Cons_Req_Detalle.Designer.cs">
+      <DependentUpon>Frm_Cons_Req_Detalle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\Frm_Con_Productos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\Frm_Con_Productos.Designer.cs">
+      <DependentUpon>Frm_Con_Productos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\Frm_Descripcion_Requerimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\Frm_Descripcion_Requerimiento.Designer.cs">
+      <DependentUpon>Frm_Descripcion_Requerimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\Frm_Detalle_Fechas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\Frm_Detalle_Fechas.Designer.cs">
+      <DependentUpon>Frm_Detalle_Fechas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\Frm_Fechas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\Frm_Fechas.Designer.cs">
+      <DependentUpon>Frm_Fechas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\Frm_RepuestoXMaquina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\Frm_RepuestoXMaquina.Designer.cs">
+      <DependentUpon>Frm_RepuestoXMaquina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\Frm_Req_Alm_Ingenieria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\Frm_Req_Alm_Ingenieria.Designer.cs">
+      <DependentUpon>Frm_Req_Alm_Ingenieria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\Frm_Seleccion_CCT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\Frm_Seleccion_CCT.Designer.cs">
+      <DependentUpon>Frm_Seleccion_CCT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoginLL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoginLL.designer.cs">
+      <DependentUpon>frmLoginLL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Configuracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Configuracion.Designer.cs">
+      <DependentUpon>Frm_Configuracion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Contrasena.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Contrasena.Designer.cs">
+      <DependentUpon>Frm_Contrasena.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Contrasena_Nueva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Contrasena_Nueva.Designer.cs">
+      <DependentUpon>Frm_Contrasena_Nueva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Contrasena_Verificada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Contrasena_Verificada.Designer.cs">
+      <DependentUpon>Frm_Contrasena_Verificada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Ordenes Trabajo\FrmOrdenSubGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Ordenes Trabajo\FrmOrdenSubGrupo.Designer.cs">
+      <DependentUpon>FrmOrdenSubGrupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Ordenes Trabajo\FrmOrdenTrabajo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Ordenes Trabajo\FrmOrdenTrabajo.Designer.cs">
+      <DependentUpon>FrmOrdenTrabajo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MateriaPrima\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MateriaPrima\Form1.designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MateriaPrima\frmDescomposicion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MateriaPrima\frmDescomposicion.designer.cs">
+      <DependentUpon>frmDescomposicion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MateriaPrima\FrmPeriodo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MateriaPrima\FrmPeriodo.designer.cs">
+      <DependentUpon>FrmPeriodo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MateriaPrima\frmProgreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MateriaPrima\frmProgreso.designer.cs">
+      <DependentUpon>frmProgreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MateriaPrima\frmReporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MateriaPrima\frmReporte.designer.cs">
+      <DependentUpon>frmReporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MateriaPrima\frmReporteVale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MateriaPrima\frmReporteVale.designer.cs">
+      <DependentUpon>frmReporteVale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MateriaPrima\frmValeLibre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MateriaPrima\frmValeLibre.designer.cs">
+      <DependentUpon>frmValeLibre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OtrosFormatos.cs" />
+    <Compile Include="Otros\CorreoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Otros\CorreoForm.Designer.cs">
+      <DependentUpon>CorreoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Otros\Frm_Busqueda_Correo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Otros\Frm_Busqueda_Correo.Designer.cs">
+      <DependentUpon>Frm_Busqueda_Correo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Otros\Frm_Req_AI_CAB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Otros\Frm_Req_AI_CAB.Designer.cs">
+      <DependentUpon>Frm_Req_AI_CAB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Otros\Frm_Req_Ingenieria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Otros\Frm_Req_Ingenieria.Designer.cs">
+      <DependentUpon>Frm_Req_Ingenieria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FrmReporteMP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FrmReporteMP.Designer.cs">
+      <DependentUpon>FrmReporteMP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\Frm_Reporte_Vale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\Frm_Reporte_Vale.Designer.cs">
+      <DependentUpon>Frm_Reporte_Vale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sistema\Frm_Asign_CCT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sistema\Frm_Asign_CCT.Designer.cs">
+      <DependentUpon>Frm_Asign_CCT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TControlC.cs" />
+    <Compile Include="Transaccion\Frm_Aprobacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaccion\Frm_Aprobacion.Designer.cs">
+      <DependentUpon>Frm_Aprobacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaccion\Frm_Aprobacion_Detalle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaccion\Frm_Aprobacion_Detalle.Designer.cs">
+      <DependentUpon>Frm_Aprobacion_Detalle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaccion\Frm_Aprobacion_Firma_Electronica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaccion\Frm_Aprobacion_Firma_Electronica.Designer.cs">
+      <DependentUpon>Frm_Aprobacion_Firma_Electronica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaccion\Frm_Aprobacion_Firma_Electronica_Detalle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaccion\Frm_Aprobacion_Firma_Electronica_Detalle.Designer.cs">
+      <DependentUpon>Frm_Aprobacion_Firma_Electronica_Detalle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaccion\Frm_Busqueda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaccion\Frm_Busqueda.Designer.cs">
+      <DependentUpon>Frm_Busqueda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Menu.Designer.cs">
+      <DependentUpon>Frm_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Periodo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Periodo.Designer.cs">
+      <DependentUpon>Frm_Periodo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Prueba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Prueba.Designer.cs">
+      <DependentUpon>Frm_Prueba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaccion\Frm_Deta_Mecanico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaccion\Frm_Deta_Mecanico.Designer.cs">
+      <DependentUpon>Frm_Deta_Mecanico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaccion\Frm_FotoArt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaccion\Frm_FotoArt.Designer.cs">
+      <DependentUpon>Frm_FotoArt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaccion\Frm_FotoTrab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaccion\Frm_FotoTrab.Designer.cs">
+      <DependentUpon>Frm_FotoTrab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaccion\Frm_Generacion_Vale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaccion\Frm_Generacion_Vale.Designer.cs">
+      <DependentUpon>Frm_Generacion_Vale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaccion\Frm_Grupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaccion\Frm_Grupo.Designer.cs">
+      <DependentUpon>Frm_Grupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaccion\Frm_Modificacion_Req.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaccion\Frm_Modificacion_Req.Designer.cs">
+      <DependentUpon>Frm_Modificacion_Req.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaccion\Frm_Productos_AI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaccion\Frm_Productos_AI.Designer.cs">
+      <DependentUpon>Frm_Productos_AI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaccion\Frm_Productos_AI_A2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaccion\Frm_Productos_AI_A2.Designer.cs">
+      <DependentUpon>Frm_Productos_AI_A2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaccion\Frm_RepuestoGrupoSubGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaccion\Frm_RepuestoGrupoSubGrupo.Designer.cs">
+      <DependentUpon>Frm_RepuestoGrupoSubGrupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaccion\Frm_Requerimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaccion\Frm_Requerimiento.Designer.cs">
+      <DependentUpon>Frm_Requerimiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Consultas\Frm_Detalle_Adicional.resx">
+      <DependentUpon>Frm_Detalle_Adicional.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\Frm_Detalle_Rep_Obsoletos_Sele.resx">
+      <DependentUpon>Frm_Detalle_Rep_Obsoletos_Sele.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\Frm_Ingreso_AI.resx">
+      <DependentUpon>Frm_Ingreso_AI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\Frm_Anio_ABC.resx">
+      <DependentUpon>Frm_Anio_ABC.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\Frm_Consulta_Gerencia_Mat_Prima.resx">
+      <DependentUpon>Frm_Consulta_Gerencia_Mat_Prima.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\Frm_Consulta_Principal_MP.resx">
+      <DependentUpon>Frm_Consulta_Principal_MP.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\Frm_Consulta_Requerimientos.resx">
+      <DependentUpon>Frm_Consulta_Requerimientos.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\Frm_Consumos_AI.resx">
+      <DependentUpon>Frm_Consumos_AI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\Frm_Consuta_ABC.resx">
+      <DependentUpon>Frm_Consuta_ABC.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\Frm_Cons_Req_Detalle.resx">
+      <DependentUpon>Frm_Cons_Req_Detalle.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\Frm_Con_Productos.resx">
+      <DependentUpon>Frm_Con_Productos.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\Frm_Descripcion_Requerimiento.resx">
+      <DependentUpon>Frm_Descripcion_Requerimiento.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\Frm_Detalle_Fechas.resx">
+      <DependentUpon>Frm_Detalle_Fechas.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\Frm_Fechas.resx">
+      <DependentUpon>Frm_Fechas.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\Frm_RepuestoXMaquina.resx">
+      <DependentUpon>Frm_RepuestoXMaquina.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\Frm_Req_Alm_Ingenieria.resx">
+      <DependentUpon>Frm_Req_Alm_Ingenieria.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\Frm_Seleccion_CCT.resx">
+      <DependentUpon>Frm_Seleccion_CCT.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoginLL.resx">
+      <DependentUpon>frmLoginLL.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Configuracion.resx">
+      <DependentUpon>Frm_Configuracion.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Contrasena.resx">
+      <DependentUpon>Frm_Contrasena.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Contrasena_Nueva.resx">
+      <DependentUpon>Frm_Contrasena_Nueva.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Contrasena_Verificada.resx">
+      <DependentUpon>Frm_Contrasena_Verificada.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Ordenes Trabajo\FrmOrdenTrabajo.resx">
+      <DependentUpon>FrmOrdenTrabajo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MateriaPrima\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MateriaPrima\frmDescomposicion.resx">
+      <DependentUpon>frmDescomposicion.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MateriaPrima\FrmPeriodo.resx">
+      <DependentUpon>FrmPeriodo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MateriaPrima\frmProgreso.resx">
+      <DependentUpon>frmProgreso.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MateriaPrima\frmReporte.resx">
+      <DependentUpon>frmReporte.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MateriaPrima\frmReporteVale.resx">
+      <DependentUpon>frmReporteVale.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MateriaPrima\frmValeLibre.resx">
+      <DependentUpon>frmValeLibre.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MateriaPrima\RepValeVER2.rdlc" />
+    <EmbeddedResource Include="Otros\CorreoForm.resx">
+      <DependentUpon>CorreoForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Otros\Frm_Busqueda_Correo.resx">
+      <DependentUpon>Frm_Busqueda_Correo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Otros\Frm_Req_AI_CAB.resx">
+      <DependentUpon>Frm_Req_AI_CAB.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Otros\Frm_Req_Ingenieria.resx">
+      <DependentUpon>Frm_Req_Ingenieria.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Reportes\FrmReporteMP.resx">
+      <DependentUpon>FrmReporteMP.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Report1.rdlc" />
+    <EmbeddedResource Include="Reportes\RepValeVER4.rdlc" />
+    <EmbeddedResource Include="Reportes\RepValeVER3.rdlc" />
+    <EmbeddedResource Include="Reportes\RepValeVER2.rdlc" />
+    <EmbeddedResource Include="Reportes\RepValeVER.rdlc" />
+    <EmbeddedResource Include="Reportes\Frm_Reporte_Vale.resx">
+      <DependentUpon>Frm_Reporte_Vale.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\RepVale.rdlc" />
+    <EmbeddedResource Include="Reportes\RptRepMateriaPrima.rdlc" />
+    <EmbeddedResource Include="Sistema\Frm_Asign_CCT.resx">
+      <DependentUpon>Frm_Asign_CCT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaccion\Frm_Aprobacion.resx">
+      <DependentUpon>Frm_Aprobacion.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaccion\Frm_Aprobacion_Detalle.resx">
+      <DependentUpon>Frm_Aprobacion_Detalle.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaccion\Frm_Aprobacion_Firma_Electronica.resx">
+      <DependentUpon>Frm_Aprobacion_Firma_Electronica.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaccion\Frm_Aprobacion_Firma_Electronica_Detalle.resx">
+      <DependentUpon>Frm_Aprobacion_Firma_Electronica_Detalle.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaccion\Frm_Busqueda.resx">
+      <DependentUpon>Frm_Busqueda.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Menu.resx">
+      <DependentUpon>Frm_Menu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Periodo.resx">
+      <DependentUpon>Frm_Periodo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Prueba.resx">
+      <DependentUpon>Frm_Prueba.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaccion\Frm_Deta_Mecanico.resx">
+      <DependentUpon>Frm_Deta_Mecanico.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaccion\Frm_FotoArt.resx">
+      <DependentUpon>Frm_FotoArt.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaccion\Frm_FotoTrab.resx">
+      <DependentUpon>Frm_FotoTrab.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaccion\Frm_Generacion_Vale.resx">
+      <DependentUpon>Frm_Generacion_Vale.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaccion\Frm_Grupo.resx">
+      <DependentUpon>Frm_Grupo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaccion\Frm_Modificacion_Req.resx">
+      <DependentUpon>Frm_Modificacion_Req.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaccion\Frm_Productos_AI.resx">
+      <DependentUpon>Frm_Productos_AI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaccion\Frm_Productos_AI_A2.resx">
+      <DependentUpon>Frm_Productos_AI_A2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaccion\Frm_RepuestoGrupoSubGrupo.resx">
+      <DependentUpon>Frm_RepuestoGrupoSubGrupo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaccion\Frm_Requerimiento.resx">
+      <DependentUpon>Frm_Requerimiento.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaccion\Frm_SubGrupo.resx">
+      <DependentUpon>Frm_SubGrupo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="Others\acercade.rtf" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Transaccion\Frm_SubGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaccion\Frm_SubGrupo.Designer.cs">
+      <DependentUpon>Frm_SubGrupo.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Logistica.Ingenieria.Bussiness\Logistica.Ingenieria.Bussiness.csproj">
+      <Project>{0611B0AD-233F-4B52-84BD-36F3418C6A45}</Project>
+      <Name>Logistica.Ingenieria.Bussiness</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Logistica.Ingenieria.Entity\Logistica.Ingenieria.Entity.csproj">
+      <Project>{8543CD82-A697-409F-B417-FC78CEF11567}</Project>
+      <Name>Logistica.Ingenieria.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Logistica.Ingenieria.UtilsC\Logistica.Ingenieria.UtilsC.csproj">
+      <Project>{9FBA0B5B-B29F-4EA4-B609-ABA559BF70CA}</Project>
+      <Name>Logistica.Ingenieria.UtilsC</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Logistica.Ingenieria.Utils\Logistica.Ingenieria.Utils.vbproj">
+      <Project>{BA48C1BE-C432-4631-ADC8-164973E80E17}</Project>
+      <Name>Logistica.Ingenieria.Utils</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Others\16 %28Find%29.ico" />
+    <Content Include="Others\AC.BMP" />
+    <Content Include="Others\ACCESOS.bmp" />
+    <Content Include="Others\ACCESOS12.bmp" />
+    <Content Include="Others\ACERCA DE.BMP" />
+    <Content Include="Others\ACERCA DE12.BMP" />
+    <Content Include="Others\ACTUALIZ.BMP" />
+    <Content Include="Others\ACTUALIZ1.BMP" />
+    <Content Include="Others\AF.BMP" />
+    <Content Include="Others\AM.BMP" />
+    <Content Include="Others\ANULAR.bmp" />
+    <Content Include="Others\ANULAR12.bmp" />
+    <Content Include="Others\AP.BMP" />
+    <Content Include="Others\APLICAC.ICO" />
+    <Content Include="Others\APROBAR.BMP" />
+    <Content Include="Others\AS.bmp" />
+    <Content Include="Others\ASNT.BMP" />
+    <Content Include="Others\AS_400.BMP" />
+    <Content Include="Others\barra01.jpg" />
+    <Content Include="Others\barra011.jpg" />
+    <Content Include="Others\barra012.jpg" />
+    <Content Include="Others\barra03.jpg" />
+    <Content Include="Others\barra04.jpg" />
+    <Content Include="Others\barra07.jpg" />
+    <Content Include="Others\BMP\ACCESOS.bmp" />
+    <Content Include="Others\BMP\ACERCA DE.BMP" />
+    <Content Include="Others\BMP\ANULAR.bmp" />
+    <Content Include="Others\BMP\BO.bmp" />
+    <Content Include="Others\BMP\Borrar.bmp" />
+    <Content Include="Others\BMP\CLIENTES.bmp" />
+    <Content Include="Others\BMP\close.bmp" />
+    <Content Include="Others\BMP\ELIMINA.BMP" />
+    <Content Include="Others\BMP\FA1.bmp" />
+    <Content Include="Others\BMP\FA2.bmp" />
+    <Content Include="Others\BMP\FA21.bmp" />
+    <Content Include="Others\BMP\FACTURAR.BMP" />
+    <Content Include="Others\BMP\GRABAR.BMP" />
+    <Content Include="Others\BMP\GRABARAR.BMP" />
+    <Content Include="Others\BMP\GRABARAR1.BMP" />
+    <Content Include="Others\BMP\help.BMP" />
+    <Content Include="Others\BMP\HLP-UP.BMP" />
+    <Content Include="Others\BMP\images.jpg" />
+    <Content Include="Others\BMP\ImprimeOC.bmp" />
+    <Content Include="Others\BMP\Inicio.bmp" />
+    <Content Include="Others\BMP\Intro.BMP" />
+    <Content Include="Others\BMP\IntroLC.BMP" />
+    <Content Include="Others\BMP\Logo.jpg" />
+    <Content Include="Others\BMP\Logo111.jpg" />
+    <Content Include="Others\BMP\logollantas.png" />
+    <Content Include="Others\BMP\logos1.jpg" />
+    <Content Include="Others\BMP\logosa.png" />
+    <Content Include="Others\BMP\lq.bmp" />
+    <Content Include="Others\BMP\MODIFICA.BMP" />
+    <Content Include="Others\BMP\NOTAS.BMP" />
+    <Content Include="Others\BMP\Nueva carpeta\Captura.PNG" />
+    <Content Include="Others\BMP\Nueva carpeta\images - copia.jpg" />
+    <Content Include="Others\BMP\Nueva carpeta\images.jpg" />
+    <Content Include="Others\BMP\Nueva carpeta\PRODUCTO.bmp" />
+    <Content Include="Others\BMP\Nueva carpeta\SERVICIOS.PNG" />
+    <Content Include="Others\BMP\NUEVO.BMP" />
+    <Content Include="Others\BMP\PREGUNTA.BMP" />
+    <Content Include="Others\BMP\PRODUCTO.bmp" />
+    <Content Include="Others\BMP\REFRESH.BMP" />
+    <Content Include="Others\BMP\REPORTE.BMP" />
+    <Content Include="Others\BMP\SALIDA.BMP" />
+    <Content Include="Others\BMP\Sin título.bmp" />
+    <Content Include="Others\BMP\TIPOCAMB.BMP" />
+    <Content Include="Others\BO.bmp" />
+    <Content Include="Others\BO12.bmp" />
+    <Content Include="Others\Borrar.bmp" />
+    <Content Include="Others\Borrar12.bmp" />
+    <Content Include="Others\btnConfiguracion.bmp" />
+    <Content Include="Others\btnIngresar.bmp" />
+    <Content Include="Others\btnSalir.bmp" />
+    <Content Include="Others\BUSCAR.BMP" />
+    <Content Include="Others\BuscarAbonados.png" />
+    <Content Include="Others\CALCULA.BMP" />
+    <Content Include="Others\CAMPAIN.ICO" />
+    <Content Include="Others\CB.BMP" />
+    <Content Include="Others\CB_BANK.BMP" />
+    <Content Include="Others\CC.BMP" />
+    <Content Include="Others\CG.BMP" />
+    <Content Include="Others\CH.bmp" />
+    <Content Include="Others\CI.BMP" />
+    <Content Include="Others\CI.ICO" />
+    <Content Include="Others\CIERRPER.BMP" />
+    <Content Include="Others\CLIENTES.bmp" />
+    <Content Include="Others\CLIENTES12.bmp" />
+    <Content Include="Others\close.bmp" />
+    <Content Include="Others\close12.bmp" />
+    <Content Include="Others\CN.BMP" />
+    <Content Include="Others\CO.BMP" />
+    <Content Include="Others\CP.BMP" />
+    <Content Include="Others\CR.BMP" />
+    <Content Include="Others\EDITAR.JPG" />
+    <Content Include="Others\ELIMINA.BMP" />
+    <Content Include="Others\ELIMINA12.BMP" />
+    <Content Include="Others\EV.BMP" />
+    <Content Include="Others\EXACTNEW.BMP" />
+    <Content Include="Others\EXACTUS.BMP" />
+    <Content Include="Others\EXACTUS2.BMP" />
+    <Content Include="Others\FA.BMP" />
+    <Content Include="Others\FA112.bmp" />
+    <Content Include="Others\FA212.bmp" />
+    <Content Include="Others\FACTURAR12.BMP" />
+    <Content Include="Others\FonodAmarillo.jpg" />
+    <Content Include="Others\Footer1.jpg" />
+    <Content Include="Others\GRABAR12.BMP" />
+    <Content Include="Others\GRABARAR112.BMP" />
+    <Content Include="Others\GRABARAR12.BMP" />
+    <Content Include="Others\help12.BMP" />
+    <Content Include="Others\HLP-UP12.BMP" />
+    <Content Include="Others\imagenCabecera1.JPG" />
+    <Content Include="Others\ImprimeOC12.bmp" />
+    <Content Include="Others\IMPRIMIR.BMP" />
+    <Content Include="Others\INICIAR.BMP" />
+    <Content Include="Others\Inicio12.bmp" />
+    <Content Include="Others\Intro12.BMP" />
+    <Content Include="Others\llantita.jpg" />
+    <Content Include="Others\LOCKED.BMP" />
+    <Content Include="Others\LOGO.bmp" />
+    <Content Include="Others\Logo12.jpg" />
+    <Content Include="Others\lq12.bmp" />
+    <Content Include="Others\MC.bmp" />
+    <Content Include="Others\MODIFICA12.BMP" />
+    <Content Include="Others\move.AVI" />
+    <Content Include="Others\NOTAS12.BMP" />
+    <Content Include="Others\NUEVO.BMP" />
+    <Content Include="Others\NUEVO12.BMP" />
+    <Content Include="Others\PC.BMP" />
+    <Content Include="Others\PM.BMP" />
+    <Content Include="Others\PR.BMP" />
+    <Content Include="Others\PREGUNTA12.BMP" />
+    <Content Include="Others\PROCESO.BMP" />
+    <Content Include="Others\PRODUC.BMP" />
+    <Content Include="Others\PRODUCTO12.bmp" />
+    <Content Include="Others\PV.BMP" />
+    <Content Include="Others\REFRESH.BMP" />
+    <Content Include="Others\REFRESH12.BMP" />
+    <Content Include="Others\REPORTE12.BMP" />
+    <Content Include="Others\RH.BMP" />
+    <Content Include="Others\RM.BMP" />
+    <Content Include="Others\rosa.AVI" />
+    <Content Include="Others\SALIDA.BMP" />
+    <Content Include="Others\SALIDA12.BMP" />
+    <Content Include="Others\SAVEPLUS.BMP" />
+    <None Include="Others\search.ico" />
+    <Content Include="Others\SQLSIM.BMP" />
+    <Content Include="Others\TIPOCAMB12.BMP" />
+    <Content Include="Others\USER.ICO" />
+    <None Include="Properties\DataSources\Logistica.Ingenieria.Bussiness.BTablas.datasource" />
+    <None Include="Properties\DataSources\Logistica.Ingenieria.Entity.EntidadMP.datasource" />
+    <None Include="Properties\DataSources\Logistica.Ingenieria.Entity.EReporteVALE.datasource" />
+    <None Include="Resources\ACCESOS.bmp" />
+    <None Include="Resources\ASNT.BMP" />
+    <None Include="Resources\BUSCAR.BMP" />
+    <None Include="Resources\PRODUCTO121.bmp" />
+    <None Include="Resources\ELIMINA.BMP" />
+    <None Include="Resources\SALIDA.BMP" />
+    <None Include="Resources\PROCESO.BMP" />
+    <None Include="Resources\NOTAS12.BMP" />
+    <None Include="Resources\APROBAR.BMP" />
+    <None Include="Resources\PRODUCTO122.bmp" />
+    <None Include="Resources\APROBAR1.BMP" />
+    <None Include="Resources\PROCESO1.BMP" />
+    <None Include="Resources\NOTAS121.BMP" />
+    <None Include="Resources\APROBAR2.BMP" />
+    <None Include="Resources\GRABAR12.BMP" />
+    <None Include="Resources\CHECKMRK.ICO" />
+    <None Include="Resources\INICIAR.BMP" />
+    <None Include="Resources\BUSCAR1.BMP" />
+    <None Include="Resources\NUEVO12.BMP" />
+    <None Include="Resources\BUSCAR2.BMP" />
+    <None Include="Resources\RM.BMP" />
+    <None Include="Resources\RM1.BMP" />
+    <None Include="Resources\vert.ico" />
+    <Content Include="RM.ICO" />
+    <None Include="Resources\icono_excel1.gif" />
+    <None Include="Resources\icono-excel.gif" />
+    <None Include="Resources\PRODUCTO12.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxMSComCtl2">
+      <Guid>{86CF1D34-0C5F-11D2-A9FC-0000F8754DA1}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="MSComCtl2">
+      <Guid>{86CF1D34-0C5F-11D2-A9FC-0000F8754DA1}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,750 @@
+\\192.168.10.103\c$\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.exe.config
+\\192.168.10.103\c$\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.exe
+\\192.168.10.103\c$\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.pdb
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.exe.config
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.exe
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.pdb
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Bussiness.dll
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Entity.dll
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.dll
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.UtilsC.dll
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Interop.cwbx.dll
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Data.dll
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.UtilsC.pdb
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Bussiness.pdb
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Entity.pdb
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Data.pdb
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.pdb
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.xml
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consumos_AI.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Con_Productos.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Detalle_Fechas.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Fechas.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmLoginLL.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Configuracion.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Detalle.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Busqueda.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Menu.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Periodo.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Prueba.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Productos_AI.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Requerimiento.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Properties.Resources.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.csproj.GenerateResource.Cache
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.exe
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.pdb
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Generacion_Vale.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Reportes.Frm_Reporte_Vale.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\RdlCompile.cache
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\RdlCompile.compiled
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmDescomposicion.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmValeLibre.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmReporte.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Form1.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.FrmPeriodo.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmProgreso.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmReporteVale.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_pruebaImagenesAVI.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Interop.MSComCtl2.dll
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\AxInterop.MSComCtl2.dll
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Interop.MSComCtl2.dll
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\AxInterop.MSComCtl2.dll
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.csproj.ResolveComReference.cache
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_FotoTrab.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_FotoArt.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Productos_AI_A2.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Req_Ingenieria.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Req_AI_CAB.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Busqueda_Correo.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Grupo.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_SubGrupo.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_RepuestoGrupoSubGrupo.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Deta_Mecanico.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena_Nueva.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena_Verificada.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consulta_Requerimientos.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Cons_Req_Detalle.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Modificacion_Req.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Req_Alm_Ingenieria.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Descripcion_Requerimiento.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Firma_Electronica.resources
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Firma_Electronica_Detalle.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.exe.config
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.csproj.ResolveComReference.cache
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.exe
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.pdb
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.exe
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.pdb
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Bussiness.dll
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Entity.dll
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.dll
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.UtilsC.dll
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Interop.cwbx.dll
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Data.dll
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.UtilsC.pdb
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Entity.pdb
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Data.pdb
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Bussiness.pdb
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.pdb
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.xml
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consulta_Gerencia_Mat_Prima.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consulta_Requerimientos.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consumos_AI.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Cons_Req_Detalle.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Con_Productos.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Descripcion_Requerimiento.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Detalle_Fechas.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Fechas.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Req_Alm_Ingenieria.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmLoginLL.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Configuracion.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena_Nueva.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena_Verificada.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Form1.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmDescomposicion.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.FrmPeriodo.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmProgreso.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmReporte.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmReporteVale.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmValeLibre.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Busqueda_Correo.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Req_AI_CAB.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Req_Ingenieria.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Reportes.Frm_Reporte_Vale.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Detalle.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Firma_Electronica.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Firma_Electronica_Detalle.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Busqueda.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Menu.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Periodo.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Prueba.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Deta_Mecanico.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_FotoArt.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_FotoTrab.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Generacion_Vale.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Grupo.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Modificacion_Req.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Productos_AI.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Productos_AI_A2.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_RepuestoGrupoSubGrupo.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Requerimiento.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Properties.Resources.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_SubGrupo.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.csproj.GenerateResource.Cache
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\RdlCompile.cache
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\RdlCompile.compiled
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Seleccion_CCT.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consulta_Principal_MP.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.exe.config
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Interop.MSComCtl2.dll
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\AxInterop.MSComCtl2.dll
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.csproj.ResolveComReference.cache
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.exe
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.pdb
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.exe
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.pdb
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Bussiness.dll
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Entity.dll
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.dll
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.UtilsC.dll
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Interop.cwbx.dll
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Data.dll
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.UtilsC.pdb
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Entity.pdb
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Data.pdb
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Bussiness.pdb
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.pdb
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.xml
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Interop.MSComCtl2.dll
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\AxInterop.MSComCtl2.dll
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\ResolveAssemblyReference.cache
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consulta_Gerencia_Mat_Prima.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consulta_Principal_MP.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consulta_Requerimientos.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consumos_AI.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Cons_Req_Detalle.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Con_Productos.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Descripcion_Requerimiento.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Detalle_Fechas.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Fechas.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Req_Alm_Ingenieria.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Seleccion_CCT.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmLoginLL.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Configuracion.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena_Nueva.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena_Verificada.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_pruebaImagenesAVI.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Form1.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmDescomposicion.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.FrmPeriodo.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmProgreso.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmReporte.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmReporteVale.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmValeLibre.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Busqueda_Correo.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Req_AI_CAB.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Req_Ingenieria.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Reportes.Frm_Reporte_Vale.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Detalle.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Firma_Electronica.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Firma_Electronica_Detalle.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Busqueda.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Menu.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Periodo.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Prueba.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Deta_Mecanico.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_FotoArt.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_FotoTrab.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Generacion_Vale.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Grupo.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Modificacion_Req.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Productos_AI.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Productos_AI_A2.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_RepuestoGrupoSubGrupo.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Requerimiento.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Properties.Resources.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_SubGrupo.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.csproj.GenerateResource.Cache
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\RdlCompile.cache
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\RdlCompile.compiled
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Reportes.FrmReporteMP.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Anio_ABC.resources
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consuta_ABC.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Anio_ABC.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consuta_ABC.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Reportes.FrmReporteMP.resources
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Ingreso_AI.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.exe.config
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.csproj.ResolveComReference.cache
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.exe
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.pdb
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.exe
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.pdb
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Bussiness.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Entity.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.UtilsC.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Data.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\office.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Interop.cwbx.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Data.pdb
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Entity.pdb
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Bussiness.pdb
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.pdb
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.xml
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.UtilsC.pdb
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Ingreso_AI.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Anio_ABC.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consulta_Gerencia_Mat_Prima.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consulta_Principal_MP.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consulta_Requerimientos.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consumos_AI.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consuta_ABC.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Cons_Req_Detalle.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Con_Productos.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Descripcion_Requerimiento.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Detalle_Fechas.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Fechas.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Req_Alm_Ingenieria.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Seleccion_CCT.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmLoginLL.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Configuracion.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena_Nueva.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena_Verificada.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Form1.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmDescomposicion.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.FrmPeriodo.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmProgreso.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmReporte.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmReporteVale.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmValeLibre.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Busqueda_Correo.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Req_AI_CAB.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Req_Ingenieria.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Reportes.FrmReporteMP.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Reportes.Frm_Reporte_Vale.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Detalle.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Firma_Electronica.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Firma_Electronica_Detalle.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Busqueda.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Menu.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Periodo.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Prueba.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Deta_Mecanico.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_FotoArt.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_FotoTrab.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Generacion_Vale.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Grupo.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Modificacion_Req.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Productos_AI.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Productos_AI_A2.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_RepuestoGrupoSubGrupo.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Requerimiento.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Properties.Resources.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_SubGrupo.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.csproj.GenerateResource.Cache
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\RdlCompile.cache
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\RdlCompile.compiled
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Interop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\AxInterop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Interop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\AxInterop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_RepuestoXMaquina.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.CorreoForm.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Detalle_Rep_Obsoletos_Sele.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Detalle_Adicional.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.exe.config
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Interop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\AxInterop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.csproj.ResolveComReference.cache
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.exe
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.pdb
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.exe
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.pdb
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Bussiness.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Entity.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.UtilsC.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Data.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\office.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Interop.cwbx.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Data.pdb
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Entity.pdb
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Bussiness.pdb
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.pdb
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.xml
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.UtilsC.pdb
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Interop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\AxInterop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Detalle_Adicional.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Detalle_Rep_Obsoletos_Sele.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Ingreso_AI.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Anio_ABC.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consulta_Gerencia_Mat_Prima.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consulta_Principal_MP.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consulta_Requerimientos.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consumos_AI.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consuta_ABC.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Cons_Req_Detalle.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Con_Productos.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Descripcion_Requerimiento.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Detalle_Fechas.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Fechas.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_RepuestoXMaquina.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Req_Alm_Ingenieria.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Seleccion_CCT.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmLoginLL.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Configuracion.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena_Nueva.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena_Verificada.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Form1.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmDescomposicion.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.FrmPeriodo.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmProgreso.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmReporte.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmReporteVale.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmValeLibre.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.CorreoForm.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Busqueda_Correo.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Req_AI_CAB.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Req_Ingenieria.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Reportes.FrmReporteMP.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Reportes.Frm_Reporte_Vale.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Detalle.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Firma_Electronica.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Firma_Electronica_Detalle.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Busqueda.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Menu.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Periodo.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Prueba.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Deta_Mecanico.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_FotoArt.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_FotoTrab.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Generacion_Vale.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Grupo.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Modificacion_Req.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Productos_AI.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Productos_AI_A2.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_RepuestoGrupoSubGrupo.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Requerimiento.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Properties.Resources.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_SubGrupo.resources
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.csproj.GenerateResource.Cache
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\RdlCompile.cache
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\RdlCompile.compiled
+C:\Users\LAPDIER1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Interop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\AxInterop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\office.dll
+C:\Users\LAPDIER1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\LAPDIER1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\LAPDIER1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Interop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\AxInterop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Detalle_Adicional.resources
+C:\Users\LAPDIER1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Detalle_Rep_Obsoletos_Sele.resources
+C:\Users\LAPDIER1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_RepuestoXMaquina.resources
+C:\Users\LAPDIER1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.CorreoForm.resources
+C:\Users\LAPDIER1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Mantenimientos.Ordenes_Trabajo.FrmOrdenTrabajo.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.exe.config
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Interop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\AxInterop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.csproj.ResolveComReference.cache
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.exe
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.pdb
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.exe
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.pdb
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Bussiness.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Entity.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.UtilsC.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Data.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Interop.cwbx.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\office.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Bussiness.pdb
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Entity.pdb
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.UtilsC.pdb
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.pdb
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.xml
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Data.pdb
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Interop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\AxInterop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Detalle_Adicional.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Detalle_Rep_Obsoletos_Sele.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Ingreso_AI.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Anio_ABC.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consulta_Gerencia_Mat_Prima.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consulta_Principal_MP.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consulta_Requerimientos.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consumos_AI.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consuta_ABC.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Cons_Req_Detalle.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Con_Productos.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Descripcion_Requerimiento.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Detalle_Fechas.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Fechas.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_RepuestoXMaquina.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Req_Alm_Ingenieria.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Seleccion_CCT.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmLoginLL.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Configuracion.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena_Nueva.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena_Verificada.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Mantenimientos.Ordenes_Trabajo.FrmOrdenTrabajo.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Form1.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmDescomposicion.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.FrmPeriodo.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmProgreso.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmReporte.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmReporteVale.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmValeLibre.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.CorreoForm.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Busqueda_Correo.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Req_AI_CAB.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Req_Ingenieria.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Reportes.FrmReporteMP.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Reportes.Frm_Reporte_Vale.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Detalle.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Firma_Electronica.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Firma_Electronica_Detalle.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Busqueda.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Menu.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Periodo.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Prueba.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Deta_Mecanico.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_FotoArt.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_FotoTrab.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Generacion_Vale.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Grupo.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Modificacion_Req.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Productos_AI.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Productos_AI_A2.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_RepuestoGrupoSubGrupo.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Requerimiento.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Properties.Resources.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_SubGrupo.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\RdlCompile.cache
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\RdlCompile.compiled
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.exe.config
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Interop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\AxInterop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.csproj.ResolveComReference.cache
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.exe
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.pdb
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.exe
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.pdb
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Bussiness.dll
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Entity.dll
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.dll
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.UtilsC.dll
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Data.dll
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Interop.cwbx.dll
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\office.dll
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Bussiness.pdb
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Entity.pdb
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.UtilsC.pdb
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.pdb
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.xml
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Data.pdb
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Interop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\AxInterop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Detalle_Adicional.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Detalle_Rep_Obsoletos_Sele.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Ingreso_AI.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Anio_ABC.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consulta_Gerencia_Mat_Prima.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consulta_Principal_MP.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consulta_Requerimientos.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consumos_AI.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consuta_ABC.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Cons_Req_Detalle.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Con_Productos.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Descripcion_Requerimiento.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Detalle_Fechas.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Fechas.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_RepuestoXMaquina.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Req_Alm_Ingenieria.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Seleccion_CCT.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmLoginLL.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Configuracion.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena_Nueva.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena_Verificada.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Mantenimientos.Ordenes_Trabajo.FrmOrdenTrabajo.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Form1.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmDescomposicion.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.FrmPeriodo.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmProgreso.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmReporte.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmReporteVale.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmValeLibre.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.CorreoForm.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Busqueda_Correo.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Req_AI_CAB.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Req_Ingenieria.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Reportes.FrmReporteMP.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Reportes.Frm_Reporte_Vale.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Detalle.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Firma_Electronica.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Firma_Electronica_Detalle.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Busqueda.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Menu.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Periodo.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Prueba.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Deta_Mecanico.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_FotoArt.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_FotoTrab.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Generacion_Vale.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Grupo.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Modificacion_Req.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Productos_AI.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Productos_AI_A2.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_RepuestoGrupoSubGrupo.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Requerimiento.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Properties.Resources.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_SubGrupo.resources
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\RdlCompile.cache
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\RdlCompile.compiled
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.exe.config
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Interop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\AxInterop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.csproj.ResolveComReference.cache
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.exe
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.pdb
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.exe
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.pdb
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Bussiness.dll
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Entity.dll
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.dll
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.UtilsC.dll
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Data.dll
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Interop.cwbx.dll
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\office.dll
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Bussiness.pdb
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Entity.pdb
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.UtilsC.pdb
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.pdb
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.xml
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Data.pdb
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Interop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\AxInterop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Detalle_Adicional.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Detalle_Rep_Obsoletos_Sele.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Ingreso_AI.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Anio_ABC.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consulta_Gerencia_Mat_Prima.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consulta_Principal_MP.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consulta_Requerimientos.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consumos_AI.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consuta_ABC.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Cons_Req_Detalle.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Con_Productos.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Descripcion_Requerimiento.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Detalle_Fechas.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Fechas.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_RepuestoXMaquina.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Req_Alm_Ingenieria.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Seleccion_CCT.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmLoginLL.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Configuracion.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena_Nueva.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena_Verificada.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Mantenimientos.Ordenes_Trabajo.FrmOrdenTrabajo.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Form1.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmDescomposicion.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.FrmPeriodo.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmProgreso.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmReporte.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmReporteVale.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmValeLibre.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.CorreoForm.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Busqueda_Correo.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Req_AI_CAB.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Req_Ingenieria.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Reportes.FrmReporteMP.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Reportes.Frm_Reporte_Vale.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Detalle.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Firma_Electronica.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Firma_Electronica_Detalle.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Busqueda.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Menu.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Periodo.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Prueba.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Deta_Mecanico.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_FotoArt.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_FotoTrab.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Generacion_Vale.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Grupo.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Modificacion_Req.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Productos_AI.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Productos_AI_A2.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_RepuestoGrupoSubGrupo.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Requerimiento.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Properties.Resources.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_SubGrupo.resources
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\RdlCompile.cache
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\RdlCompile.compiled
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Sistema.Frm_Asign_CCT.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.exe.config
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Interop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\AxInterop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.csproj.ResolveComReference.cache
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.exe
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.pdb
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.exe
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Presentacion.pdb
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Bussiness.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Entity.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.UtilsC.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Data.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Interop.cwbx.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\office.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Bussiness.pdb
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Entity.pdb
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.UtilsC.pdb
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.pdb
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Utils.xml
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Logistica.Ingenieria.Data.pdb
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\Interop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\bin\Debug\AxInterop.MSComCtl2.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Detalle_Adicional.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Detalle_Rep_Obsoletos_Sele.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Ingreso_AI.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Anio_ABC.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consulta_Gerencia_Mat_Prima.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consulta_Principal_MP.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consulta_Requerimientos.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consumos_AI.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Consuta_ABC.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Cons_Req_Detalle.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Con_Productos.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Descripcion_Requerimiento.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Detalle_Fechas.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Fechas.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_RepuestoXMaquina.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Req_Alm_Ingenieria.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Consultas.Frm_Seleccion_CCT.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmLoginLL.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Configuracion.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena_Nueva.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Contrasena_Verificada.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Mantenimientos.Ordenes_Trabajo.FrmOrdenTrabajo.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Form1.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmDescomposicion.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.FrmPeriodo.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmProgreso.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmReporte.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmReporteVale.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.frmValeLibre.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.CorreoForm.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Busqueda_Correo.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Req_AI_CAB.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Otros.Frm_Req_Ingenieria.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Reportes.FrmReporteMP.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Reportes.Frm_Reporte_Vale.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Sistema.Frm_Asign_CCT.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Detalle.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Firma_Electronica.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Aprobacion_Firma_Electronica_Detalle.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Busqueda.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Menu.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Periodo.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Prueba.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Deta_Mecanico.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_FotoArt.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_FotoTrab.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Generacion_Vale.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Grupo.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Modificacion_Req.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Productos_AI.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_Productos_AI_A2.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_RepuestoGrupoSubGrupo.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Frm_Requerimiento.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Properties.Resources.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\Logistica.Ingenieria.Presentacion.Transaccion.Frm_SubGrupo.resources
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\RdlCompile.cache
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Presentacion\obj\Debug\RdlCompile.compiled

@@ -1,0 +1,45 @@
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\bin\Debug\Logistica.Ingenieria.UtilsC.dll
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\bin\Debug\Logistica.Ingenieria.UtilsC.pdb
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\ResolveAssemblyReference.cache
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\Logistica.Ingenieria.UtilsC.dll
+C:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\Logistica.Ingenieria.UtilsC.pdb
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\bin\Debug\Logistica.Ingenieria.UtilsC.dll
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\bin\Debug\Logistica.Ingenieria.UtilsC.pdb
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\Logistica.Ingenieria.UtilsC.dll
+C:\Users\lapdier1\Desktop\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\Logistica.Ingenieria.UtilsC.pdb
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\bin\Debug\Logistica.Ingenieria.UtilsC.dll
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\bin\Debug\Logistica.Ingenieria.UtilsC.pdb
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\ResolveAssemblyReference.cache
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\Logistica.Ingenieria.UtilsC.dll
+E:\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\Logistica.Ingenieria.UtilsC.pdb
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\bin\Debug\Logistica.Ingenieria.UtilsC.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\bin\Debug\Logistica.Ingenieria.UtilsC.pdb
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\Logistica.Ingenieria.UtilsC.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\Logistica.Ingenieria.UtilsC.pdb
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\bin\Debug\Logistica.Ingenieria.UtilsC.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\bin\Debug\Logistica.Ingenieria.UtilsC.pdb
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\Logistica.Ingenieria.UtilsC.dll
+C:\Users\LAPDIER1\Desktop\Proyectos Lima Caucho\NET\Almacen Ingenieria\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\Logistica.Ingenieria.UtilsC.pdb
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\bin\Debug\Logistica.Ingenieria.UtilsC.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\bin\Debug\Logistica.Ingenieria.UtilsC.pdb
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\Logistica.Ingenieria.UtilsC.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\Logistica.Ingenieria.UtilsC.pdb
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\bin\Debug\Logistica.Ingenieria.UtilsC.dll
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\bin\Debug\Logistica.Ingenieria.UtilsC.pdb
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\Logistica.Ingenieria.UtilsC.dll
+C:\Users\LAPDIER1\Desktop\WebUtiles V1\Almacen Utiles\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\Logistica.Ingenieria.UtilsC.pdb
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\bin\Debug\Logistica.Ingenieria.UtilsC.dll
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\bin\Debug\Logistica.Ingenieria.UtilsC.pdb
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\Logistica.Ingenieria.UtilsC.dll
+C:\Users\LAPDIER1\Desktop\Carlos Diaz\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\Logistica.Ingenieria.UtilsC.pdb
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\bin\Debug\Logistica.Ingenieria.UtilsC.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\bin\Debug\Logistica.Ingenieria.UtilsC.pdb
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\Logistica.Ingenieria.UtilsC.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\Logistica.Ingenieria.UtilsC.pdb

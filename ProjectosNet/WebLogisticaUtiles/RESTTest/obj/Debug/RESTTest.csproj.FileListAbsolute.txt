@@ -1,0 +1,5 @@
+C:\Users\LAPDIER1\Desktop\iccher\DUKENET-master\DUKENET-master\WebLogisticaUtiles\RESTTest\bin\Debug\RESTTest.dll
+C:\Users\LAPDIER1\Desktop\iccher\DUKENET-master\DUKENET-master\WebLogisticaUtiles\RESTTest\bin\Debug\RESTTest.pdb
+C:\Users\LAPDIER1\Desktop\iccher\DUKENET-master\DUKENET-master\WebLogisticaUtiles\RESTTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LAPDIER1\Desktop\iccher\DUKENET-master\DUKENET-master\WebLogisticaUtiles\RESTTest\obj\Debug\RESTTest.dll
+C:\Users\LAPDIER1\Desktop\iccher\DUKENET-master\DUKENET-master\WebLogisticaUtiles\RESTTest\obj\Debug\RESTTest.pdb

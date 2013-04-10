@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="6bbaadfc-771f-4bb5-bacf-dea1ede398a1" name="LAPDIER1@SISTEMAS03 2013-04-05 12:12:28" runUser="LIMACAUCHO\LAPDIER1" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="bd6aa089-5263-4836-9671-247485d0e12e">
+    <Description>Esta es la configuración de pruebas predeterminada para una ejecución de pruebas local.</Description>
+    <Deployment enabled="false" runDeploymentRoot="LAPDIER1_SISTEMAS03 2013-04-05 12_12_28" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-04-05T12:12:28.5372694-05:00" queuing="2013-04-05T12:12:30.6834840-05:00" start="2013-04-05T12:12:30.8725029-05:00" finish="2013-04-05T12:12:31.8155972-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ObtenerSaludoTest" storage="c:\users\lapdier1\desktop\iccher\dukenet-master\dukenet-master\weblogisticautiles\resttest\bin\debug\resttest.dll" id="ced39c27-000a-fdfd-b7c4-d6aefa29b028">
+      <Execution id="ac1f29f8-7c83-452d-9718-c4d5dc971900" />
+      <TestMethod codeBase="C:/Users/LAPDIER1/Desktop/iccher/DUKENET-master/DUKENET-master/WebLogisticaUtiles/RESTTest/bin/Debug/RESTTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RESTTest.MensajesTest, RESTTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ObtenerSaludoTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Resultados que no están en la lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos los resultados cargados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="ced39c27-000a-fdfd-b7c4-d6aefa29b028" executionId="ac1f29f8-7c83-452d-9718-c4d5dc971900" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ac1f29f8-7c83-452d-9718-c4d5dc971900" testId="ced39c27-000a-fdfd-b7c4-d6aefa29b028" testName="ObtenerSaludoTest" computerName="SISTEMAS03" duration="00:00:00.3308472" startTime="2013-04-05T12:12:30.9115068-05:00" endTime="2013-04-05T12:12:31.7835940-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ac1f29f8-7c83-452d-9718-c4d5dc971900">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;"Buenas Tardes"&gt;, pero es &lt;"Buenos tardes"&gt;. </Message>
+          <StackTrace>   en RESTTest.MensajesTest.ObtenerSaludoTest() en C:\Users\LAPDIER1\Desktop\iccher\DUKENET-master\DUKENET-master\WebLogisticaUtiles\RESTTest\UnitTest1.cs:línea 25
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

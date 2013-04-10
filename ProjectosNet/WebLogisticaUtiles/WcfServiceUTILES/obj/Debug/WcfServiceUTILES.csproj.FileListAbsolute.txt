@@ -1,0 +1,15 @@
+C:\Users\LAPDIER1\Desktop\DUKENET-master\DUKENET-master\WebLogisticaUtiles\WcfServiceUTILES\bin\WcfServiceUTILES.dll
+C:\Users\LAPDIER1\Desktop\DUKENET-master\DUKENET-master\WebLogisticaUtiles\WcfServiceUTILES\bin\WcfServiceUTILES.pdb
+C:\Users\LAPDIER1\Desktop\DUKENET-master\DUKENET-master\WebLogisticaUtiles\WcfServiceUTILES\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LAPDIER1\Desktop\DUKENET-master\DUKENET-master\WebLogisticaUtiles\WcfServiceUTILES\obj\Debug\WcfServiceUTILES.dll
+C:\Users\LAPDIER1\Desktop\DUKENET-master\DUKENET-master\WebLogisticaUtiles\WcfServiceUTILES\obj\Debug\WcfServiceUTILES.pdb
+C:\Users\LAPDIER1\Desktop\iccher\DUKENET-master\DUKENET-master\WebLogisticaUtiles\WcfServiceUTILES\bin\WcfServiceUTILES.dll
+C:\Users\LAPDIER1\Desktop\iccher\DUKENET-master\DUKENET-master\WebLogisticaUtiles\WcfServiceUTILES\bin\WcfServiceUTILES.pdb
+C:\Users\LAPDIER1\Desktop\iccher\DUKENET-master\DUKENET-master\WebLogisticaUtiles\WcfServiceUTILES\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LAPDIER1\Desktop\iccher\DUKENET-master\DUKENET-master\WebLogisticaUtiles\WcfServiceUTILES\obj\Debug\WcfServiceUTILES.dll
+C:\Users\LAPDIER1\Desktop\iccher\DUKENET-master\DUKENET-master\WebLogisticaUtiles\WcfServiceUTILES\obj\Debug\WcfServiceUTILES.pdb
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\WebLogisticaUtiles\WcfServiceUTILES\bin\WcfServiceUTILES.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\WebLogisticaUtiles\WcfServiceUTILES\bin\WcfServiceUTILES.pdb
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\WebLogisticaUtiles\WcfServiceUTILES\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\WebLogisticaUtiles\WcfServiceUTILES\obj\Debug\WcfServiceUTILES.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\WebLogisticaUtiles\WcfServiceUTILES\obj\Debug\WcfServiceUTILES.pdb

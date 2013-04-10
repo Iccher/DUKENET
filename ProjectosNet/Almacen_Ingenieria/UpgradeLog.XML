@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Almacen_Ingenieria">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\LAPDIER1\Desktop\Proyecto Almacen UTILES\Almacen Utiles\Almacen_Ingenieria\Almacen_Ingenieria.sln">
+</Property><Property Name="Date" Value="jueves, 28 de junio de 2012">
+</Property><Property Name="Time" Value="09:21 a.m.">
+</Property></Properties><Event ErrorLevel="0" Project="Logistica.Ingenieria.Presentacion" Source="Logistica.Ingenieria.Presentacion\Logistica.Ingenieria.Presentacion.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Logistica.Ingenieria.Presentacion" Source="Logistica.Ingenieria.Presentacion\Logistica.Ingenieria.Presentacion.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Logistica.Ingenieria.Entity" Source="Logistica.Ingenieria.Entity\Logistica.Ingenieria.Entity.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Logistica.Ingenieria.Entity" Source="Logistica.Ingenieria.Entity\Logistica.Ingenieria.Entity.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Logistica.Ingenieria.Data" Source="Logistica.Ingenieria.Data\Logistica.Ingenieria.Data.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Logistica.Ingenieria.Data" Source="Logistica.Ingenieria.Data\Logistica.Ingenieria.Data.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Logistica.Ingenieria.Bussiness" Source="Logistica.Ingenieria.Bussiness\Logistica.Ingenieria.Bussiness.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Logistica.Ingenieria.Bussiness" Source="Logistica.Ingenieria.Bussiness\Logistica.Ingenieria.Bussiness.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Logistica.Ingenieria.Utils" Source="Logistica.Ingenieria.Utils\Logistica.Ingenieria.Utils.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Logistica.Ingenieria.Utils" Source="Logistica.Ingenieria.Utils\Logistica.Ingenieria.Utils.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Logistica.Ingenieria.UtilsC" Source="Logistica.Ingenieria.UtilsC\Logistica.Ingenieria.UtilsC.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Logistica.Ingenieria.UtilsC" Source="Logistica.Ingenieria.UtilsC\Logistica.Ingenieria.UtilsC.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Almacen_Ingenieria.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="Almacen_Ingenieria.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Logistica.Ingenieria.Presentacion" Source="Logistica.Ingenieria.Presentacion\Logistica.Ingenieria.Presentacion.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="Logistica.Ingenieria.Entity" Source="Logistica.Ingenieria.Entity\Logistica.Ingenieria.Entity.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="Logistica.Ingenieria.Data" Source="Logistica.Ingenieria.Data\Logistica.Ingenieria.Data.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="Logistica.Ingenieria.Bussiness" Source="Logistica.Ingenieria.Bussiness\Logistica.Ingenieria.Bussiness.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="Logistica.Ingenieria.Utils" Source="Logistica.Ingenieria.Utils\Logistica.Ingenieria.Utils.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="Logistica.Ingenieria.UtilsC" Source="Logistica.Ingenieria.UtilsC\Logistica.Ingenieria.UtilsC.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

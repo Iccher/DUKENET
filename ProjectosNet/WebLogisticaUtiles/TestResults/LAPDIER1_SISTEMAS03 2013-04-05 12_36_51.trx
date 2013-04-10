@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="5b743671-b6d7-4a3b-b0c8-a818364c79c3" name="LAPDIER1@SISTEMAS03 2013-04-05 12:36:51" runUser="LIMACAUCHO\LAPDIER1" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="bd6aa089-5263-4836-9671-247485d0e12e">
+    <Description>Esta es la configuración de pruebas predeterminada para una ejecución de pruebas local.</Description>
+    <Deployment enabled="false" runDeploymentRoot="LAPDIER1_SISTEMAS03 2013-04-05 12_36_51" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-04-05T12:36:51.8665877-05:00" queuing="2013-04-05T12:36:52.6176628-05:00" start="2013-04-05T12:36:52.7216732-05:00" finish="2013-04-05T12:36:57.5191529-05:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="SISTEMAS03" outcome="Error" timestamp="2013-04-05T12:36:57.5171527-05:00">
+        <Text>El proceso del host de pruebas terminó inesperadamente.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ObtenerSaludoTest" storage="c:\users\lapdier1\desktop\iccher\dukenet-master\dukenet-master\weblogisticautiles\resttest\bin\debug\resttest.dll" id="ced39c27-000a-fdfd-b7c4-d6aefa29b028">
+      <Execution id="e6acbbad-5417-49ac-9ae9-482cf374520b" />
+      <TestMethod codeBase="C:/Users/LAPDIER1/Desktop/iccher/DUKENET-master/DUKENET-master/WebLogisticaUtiles/RESTTest/bin/Debug/RESTTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RESTTest.MensajesTest, RESTTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ObtenerSaludoTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Resultados que no están en la lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos los resultados cargados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="ced39c27-000a-fdfd-b7c4-d6aefa29b028" executionId="e6acbbad-5417-49ac-9ae9-482cf374520b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="e6acbbad-5417-49ac-9ae9-482cf374520b" testId="ced39c27-000a-fdfd-b7c4-d6aefa29b028" testName="ObtenerSaludoTest" computerName="SISTEMAS03" duration="00:00:04.7004700" startTime="2013-04-05T12:36:52.8186829-05:00" endTime="2013-04-05T12:36:57.5191529-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e6acbbad-5417-49ac-9ae9-482cf374520b">
+    </UnitTestResult>
+  </Results>
+</TestRun>
