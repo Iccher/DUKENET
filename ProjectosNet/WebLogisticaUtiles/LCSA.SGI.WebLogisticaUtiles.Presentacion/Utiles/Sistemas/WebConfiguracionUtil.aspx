@@ -15,13 +15,10 @@
             PageSize="15" CellPadding="4" ForeColor="#333333" GridLines="None" >
             <RowStyle BackColor="#F7F6F3" ForeColor="#333333" />
         <Columns>
-                <asp:BoundField DataField="CODUSE" HeaderText="Usuario" Visible="False">
-                    <ItemStyle HorizontalAlign="Center" />
-                </asp:BoundField>
-                <asp:BoundField DataField="CODEMP" HeaderText="Codigo" >
+                <asp:BoundField DataField="CODIGO" HeaderText="Codigo" >
                     <ItemStyle Width="20%" />
                 </asp:BoundField>
-                <asp:BoundField DataField="NOMEMP" HeaderText="Nombre">
+                <asp:BoundField DataField="NOMBRE" HeaderText="Nombre">
                     <ItemStyle HorizontalAlign="Left" Width="65%" />
                 </asp:BoundField>
                 <asp:TemplateField HeaderText="Editar" Visible="False">

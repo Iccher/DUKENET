@@ -13,6 +13,8 @@ using Logistica.Ingenieria.Bussiness;
 using System.Net;
 using System.Net.Mail;
 using Logistica.Ingenieria.Presentacion.Sistema;
+using System.Messaging;
+using System.Messaging;
 
 
 
@@ -113,11 +115,47 @@ namespace Logistica.Ingenieria.Presentacion
                         Program.SUPERVISORES = Program.SUPERVISORES + "," + "'" + Program.dvJefeSupervisor[i]["IDAPLI"].ToString().Trim() + "'";
                     }
                 }
-            }    
+            }
 
+            if (Program.Usuario == "LAPDCOV1")
+            {
+                string mensa = RecepcionarMensaje();
+                if (mensa != "")
+                {
+                    MessageBox.Show(mensa, "Implmentacion de Mensajeria", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+            }
 
 
         }
+
+        public static string RecepcionarMensaje()
+        {
+            string menTotal = "";
+            Mens alerta = new Mens();
+            string rutaCola = @".\private$\iespinoza";
+            if(!MessageQueue.Exists(rutaCola))
+                MessageQueue.Create(rutaCola);
+            MessageQueue cola = new MessageQueue(rutaCola);
+            cola.Formatter = new XmlMessageFormatter(new Type[] { typeof(Mens) });
+            Int64 size = Convert.ToInt64(cola.GetAllMessages().Length.ToString());
+
+            for (int i = 0; i <= size - 1; i++)
+            {
+                System.Messaging.Message mensaje = cola.Receive();
+                alerta = (Mens)mensaje.Body;
+                menTotal = menTotal + alerta.mesaj.ToString() + "\r";
+            }
+
+
+            return menTotal;
+        }
+
+        public class Mens
+        {
+            public string mesaj {get; set;}
+        }
+
 
 
         void CargaAutorizaciones()

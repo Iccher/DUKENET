@@ -14,8 +14,8 @@ namespace LCSA.SGI.WebLogisticaUtiles.Data
 
         public DataTable Query(string Sql)
         {
-            SqlDataAdapter da = new SqlDataAdapter(Sql, cn);
             DataTable tabla = new DataTable();
+            SqlDataAdapter da = new SqlDataAdapter(Sql, cn);                
             da.Fill(tabla);
             return tabla;
         }

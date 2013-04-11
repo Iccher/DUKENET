@@ -27,75 +27,83 @@ namespace LCSA.SGI.WebLogisticaUtiles.Presentacion
 
         protected void LoginButton_Click(object sender, EventArgs e)
         {
-            BTablas objTablas = new BTablas();
-            DataTable dtPruebaUsuarios = new DataTable();
-            DataTable dtPermisosUsuarios = new DataTable();
-            string SQL = "";
-
-            if (Login1.UserName != "")
+            try
             {
-                lblMensaje.Visible = false;
-                //SQL = "SELECT CODUSE,TRANOM AS NOMEMP,CODEMP,DATCVE AS R99PUE,DATDES AS R99NPU,T01NU3 AS GERENCIA FROM LALMINGB.ALIUSERS LEFT OUTER JOIN " +
-                //      " adamperuv2.v_trabaj ON CODEMP=CAST(TRACVE AS DECIMAL(4,0)) LEFT OUTER JOIN " +
-                //      " LUGTF.UGT01 ON (T01IDT='CCT' AND DATCVE = T01ESP)    WHERE CODUSE='" + Login1.UserName.ToUpper().Trim() + "' AND CODPWD='" + Login1.Password.ToUpper().Trim() + "'";
+                BTablas objTablas = new BTablas();
+                DataTable dtPruebaUsuarios = new DataTable();
+                DataTable dtPermisosUsuarios = new DataTable();
+                string SQL = "";
 
-                SQL = "SELECT CODUSE,TRANOM AS NOMEMP,CODEMP, " +
-                        " CASE WHEN ISNULL(IDOARE,'N')='N' THEN DATCVE ELSE IDOARE END AS R99PUE, " +
-                        " CASE WHEN ISNULL(IDOARE,'N')='N' THEN DATDES ELSE (SELECT T01AL1 FROM UGT01 WHERE T01IDT='CCT' AND T01ESP=IDOARE) END AS R99NPU, " +
-                        " ISNULL(T01NU3,0) AS GERENCIA " +
-                        " FROM ALIUSERS LEFT OUTER JOIN " +
-                        " v_trabaj ON CODEMP=CAST(TRACVE AS DECIMAL(4,0)) LEFT OUTER JOIN " +
-                        " UGT01 ON (T01IDT='CCT' AND DATCVE = T01ESP)  LEFT OUTER JOIN " +
-                        " WEBING80 ON (codemp=IDOCOD)  " +
-                        " WHERE CODUSE='" + Login1.UserName.ToUpper().Trim() + "' AND CODPWD='" + Login1.Password.ToUpper().Trim() + "'";
-
-
-                objTablas = new BTablas();
-                dtPruebaUsuarios = objTablas.Query(SQL);
-                if (dtPruebaUsuarios.Rows.Count > 0)
+                if (Login1.UserName != "")
                 {
-                    lblMensaje.Visible = true;
-                    lblMensaje.Text = "Ingreso Correcto " + dtPruebaUsuarios.Rows[0]["NOMEMP"].ToString();
-                    Session["Usuario"] = dtPruebaUsuarios.Rows[0]["CODUSE"].ToString();
-                    Session["NombreUsu"] = dtPruebaUsuarios.Rows[0]["NOMEMP"].ToString();
-                    Session["CodPlanilla"] = dtPruebaUsuarios.Rows[0]["CODEMP"].ToString();
-                    Session["CodPuesto"] = dtPruebaUsuarios.Rows[0]["R99PUE"].ToString();
-                    Session["Puesto"] = dtPruebaUsuarios.Rows[0]["R99NPU"].ToString();
-                    Session["Gerencia"] = dtPruebaUsuarios.Rows[0]["GERENCIA"].ToString();
-                    Session["indiceOpcion"] = "WUTIL";
-                    SQL = "SELECT A15GER FROM ALI015UTIL WHERE A15USU='" + Login1.UserName.ToUpper().Trim() + "'";
-                    objTablas = new BTablas();
-                    dtPermisosUsuarios = objTablas.Query(SQL);
+                    lblMensaje.Visible = false;
+                    //SQL = "SELECT CODUSE,TRANOM AS NOMEMP,CODEMP,DATCVE AS R99PUE,DATDES AS R99NPU,T01NU3 AS GERENCIA FROM LALMINGB.ALIUSERS LEFT OUTER JOIN " +
+                    //      " adamperuv2.v_trabaj ON CODEMP=CAST(TRACVE AS DECIMAL(4,0)) LEFT OUTER JOIN " +
+                    //      " LUGTF.UGT01 ON (T01IDT='CCT' AND DATCVE = T01ESP)    WHERE CODUSE='" + Login1.UserName.ToUpper().Trim() + "' AND CODPWD='" + Login1.Password.ToUpper().Trim() + "'";
 
-                    string condiciones = "'N'";
-                    if (dtPermisosUsuarios.Rows.Count > 0)
+                    SQL = "SELECT CODUSE,TRANOM AS NOMEMP,CODEMP, " +
+                            " CASE WHEN ISNULL(IDOARE,'N')='N' THEN DATCVE ELSE IDOARE END AS R99PUE, " +
+                            " CASE WHEN ISNULL(IDOARE,'N')='N' THEN DATDES ELSE (SELECT T01AL1 FROM UGT01 WHERE T01IDT='CCT' AND T01ESP=IDOARE) END AS R99NPU, " +
+                            " ISNULL(T01NU3,0) AS GERENCIA " +
+                            " FROM ALIUSERS LEFT OUTER JOIN " +
+                            " v_trabaj ON CODEMP=CAST(TRACVE AS DECIMAL(4,0)) LEFT OUTER JOIN " +
+                            " UGT01 ON (T01IDT='CCT' AND DATCVE = T01ESP)  LEFT OUTER JOIN " +
+                            " WEBING80 ON (codemp=IDOCOD)  " +
+                            " WHERE CODUSE='" + Login1.UserName.ToUpper().Trim() + "' AND CODPWD='" + Login1.Password.ToUpper().Trim() + "'";
+
+
+                    objTablas = new BTablas();
+                    dtPruebaUsuarios = objTablas.Query(SQL);
+                    if (dtPruebaUsuarios.Rows.Count > 0)
                     {
-                        for (int i = 0; i <= dtPermisosUsuarios.Rows.Count - 1; i++)
+                        lblMensaje.Visible = true;
+                        lblMensaje.Text = "Ingreso Correcto " + dtPruebaUsuarios.Rows[0]["NOMEMP"].ToString();
+                        Session["Usuario"] = dtPruebaUsuarios.Rows[0]["CODUSE"].ToString();
+                        Session["NombreUsu"] = dtPruebaUsuarios.Rows[0]["NOMEMP"].ToString();
+                        Session["CodPlanilla"] = dtPruebaUsuarios.Rows[0]["CODEMP"].ToString();
+                        Session["CodPuesto"] = dtPruebaUsuarios.Rows[0]["R99PUE"].ToString();
+                        Session["Puesto"] = dtPruebaUsuarios.Rows[0]["R99NPU"].ToString();
+                        Session["Gerencia"] = dtPruebaUsuarios.Rows[0]["GERENCIA"].ToString();
+                        Session["indiceOpcion"] = "WUTIL";
+                        SQL = "SELECT A15GER FROM ALI015UTIL WHERE A15USU='" + Login1.UserName.ToUpper().Trim() + "'";
+                        objTablas = new BTablas();
+                        dtPermisosUsuarios = objTablas.Query(SQL);
+
+                        string condiciones = "'N'";
+                        if (dtPermisosUsuarios.Rows.Count > 0)
                         {
-                            if (i == 0)
+                            for (int i = 0; i <= dtPermisosUsuarios.Rows.Count - 1; i++)
                             {
-                                condiciones = "'" + dtPermisosUsuarios.Rows[i]["A15GER"].ToString().Trim() + "'";
-                            }
-                            else
-                            {
-                                condiciones =condiciones + "," + "'" + dtPermisosUsuarios.Rows[i]["A15GER"].ToString().Trim() + "'";
+                                if (i == 0)
+                                {
+                                    condiciones = "'" + dtPermisosUsuarios.Rows[i]["A15GER"].ToString().Trim() + "'";
+                                }
+                                else
+                                {
+                                    condiciones = condiciones + "," + "'" + dtPermisosUsuarios.Rows[i]["A15GER"].ToString().Trim() + "'";
+                                }
                             }
                         }
-                    }
-                    Session["Condiciones"] = condiciones;
+                        Session["Condiciones"] = condiciones;
 
-                    Response.Redirect("~/WebMenuPrincipal.aspx");
+                        Response.Redirect("~/WebMenuPrincipal.aspx");
+                    }
+                    else
+                    {
+                        lblMensaje.Visible = true;
+                        lblMensaje.Text = "Usuario no tiene Acceso";
+                    }
                 }
                 else
                 {
                     lblMensaje.Visible = true;
-                    lblMensaje.Text = "Usuario no tiene Acceso";
+                    lblMensaje.Text = "Ingrese Usuario y Contraseña";
                 }
             }
-            else
+            catch
             {
                 lblMensaje.Visible = true;
-                lblMensaje.Text = "Ingrese Usuario y Contraseña";
+                lblMensaje.Text = "Usuario no tiene Acceso";
             }
         }
     }

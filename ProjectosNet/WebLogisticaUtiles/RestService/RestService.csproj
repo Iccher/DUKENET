@@ -63,10 +63,13 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Dominio\Usuario.cs" />
     <Compile Include="Mensajes.svc.cs">
       <DependentUpon>Mensajes.svc</DependentUpon>
     </Compile>
     <Compile Include="IMensajes.cs" />
+    <Compile Include="Persistencia\ConexionUtil.cs" />
+    <Compile Include="Persistencia\UsuarioDAO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

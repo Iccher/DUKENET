@@ -5,11 +5,15 @@ using System.Runtime.Serialization;
 using System.ServiceModel;
 using System.ServiceModel.Web;
 using System.Text;
+using RestService.Dominio;
+using RestService.Persistencia;
 
 namespace RestService
 {
     public class Mensajes : IMensajes
     {
+        private UsuarioDAO dao = new UsuarioDAO();
+
         public string ObtenerSaludo()
         {
             var hora = DateTime.Now.Hour;
@@ -19,6 +23,12 @@ namespace RestService
                 return "Buenas Tardes";
             else
                 return "Buenas Noches";
+        }
+
+        public List<Usuario> ListarUsuarios()
+        {
+            return dao.ObtenerUsuarios();
+
         }
     }
 }

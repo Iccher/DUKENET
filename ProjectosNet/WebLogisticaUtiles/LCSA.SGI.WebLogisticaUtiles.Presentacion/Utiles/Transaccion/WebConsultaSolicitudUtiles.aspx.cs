@@ -12,6 +12,7 @@ using System.Web.UI.HtmlControls;
 using System.Xml.Linq;
 using LCSA.SGI.WebLogisticaUtiles.Bussness;
 using System.Globalization;
+using System.Messaging;
 
 namespace LCSA.SGI.WebLogisticaUtiles.Presentacion.Utiles.Transaccion
 {
@@ -98,8 +99,32 @@ namespace LCSA.SGI.WebLogisticaUtiles.Presentacion.Utiles.Transaccion
             int h = objTab.InUpDelTablas("UPDATE ALI011UTIL SET A11CA1 = '" + Convert.ToDecimal((string)(Session["CodPlanilla"])) + "', A11UA1 = '" + (string)(Session["Usuario"]).ToString().Trim() + "',A11FA1 = '" + fecha + "',A11UH1=" + Convert.ToDecimal(Hora) + ",A11AUT = '" + Convert.ToDecimal((string)(Session["CodPlanilla"])) + "',A11EST='D' WHERE A11NSA= '" + A11NSA.Trim() + "'");
             Mensaje("Requerimiento " + A11NSA.Trim().ToString() + " ha sido Aprobado");
 
+            EnviarMensaje("Requerimiento " + A11NSA.Trim().ToString() + " Aprobado Generar Vale");
+
             Response.Redirect("~/Utiles/Transaccion/WebAprobacionReqUtiles.aspx");
+
         }
+
+
+
+        /*******************************************************Mensajeria**************************************************************/
+        public static void EnviarMensaje(string alerta)
+        {
+            string rutaCola = @".\private$\iespinoza";
+            if (!MessageQueue.Exists(rutaCola))
+                MessageQueue.Create(rutaCola);
+            MessageQueue cola = new MessageQueue(rutaCola);
+            Message mensaje = new Message();
+            mensaje.Label = "Aprobacion de Requerimientos";
+            mensaje.Body = new Mens() { mesaj = alerta };
+            cola.Send(mensaje);
+        }
+
+        public class Mens
+        {
+            public string mesaj { get; set; }
+        }
+
 
         protected void btnDesaprueba_PreRender(object sender, EventArgs e)
         {

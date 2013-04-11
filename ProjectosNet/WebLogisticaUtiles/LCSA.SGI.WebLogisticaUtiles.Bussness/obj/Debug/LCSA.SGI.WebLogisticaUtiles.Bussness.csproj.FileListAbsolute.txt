@@ -61,3 +61,12 @@ C:\Users\proyecto\DUKENET\WebLogisticaUtiles\LCSA.SGI.WebLogisticaUtiles.Bussnes
 C:\Users\proyecto\DUKENET\WebLogisticaUtiles\LCSA.SGI.WebLogisticaUtiles.Bussness\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\proyecto\DUKENET\WebLogisticaUtiles\LCSA.SGI.WebLogisticaUtiles.Bussness\obj\Debug\LCSA.SGI.WebLogisticaUtiles.Bussness.dll
 C:\Users\proyecto\DUKENET\WebLogisticaUtiles\LCSA.SGI.WebLogisticaUtiles.Bussness\obj\Debug\LCSA.SGI.WebLogisticaUtiles.Bussness.pdb
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\WebLogisticaUtiles\LCSA.SGI.WebLogisticaUtiles.Bussness\bin\Debug\LCSA.SGI.WebLogisticaUtiles.Bussness.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\WebLogisticaUtiles\LCSA.SGI.WebLogisticaUtiles.Bussness\bin\Debug\LCSA.SGI.WebLogisticaUtiles.Bussness.pdb
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\WebLogisticaUtiles\LCSA.SGI.WebLogisticaUtiles.Bussness\bin\Debug\LCSA.SGI.WebLogisticaUtiles.Data.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\WebLogisticaUtiles\LCSA.SGI.WebLogisticaUtiles.Bussness\bin\Debug\LCSA.SGI.WebLogisticaUtiles.Entity.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\WebLogisticaUtiles\LCSA.SGI.WebLogisticaUtiles.Bussness\bin\Debug\LCSA.SGI.WebLogisticaUtiles.Data.pdb
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\WebLogisticaUtiles\LCSA.SGI.WebLogisticaUtiles.Bussness\bin\Debug\LCSA.SGI.WebLogisticaUtiles.Entity.pdb
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\WebLogisticaUtiles\LCSA.SGI.WebLogisticaUtiles.Bussness\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\WebLogisticaUtiles\LCSA.SGI.WebLogisticaUtiles.Bussness\obj\Debug\LCSA.SGI.WebLogisticaUtiles.Bussness.dll
+C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\WebLogisticaUtiles\LCSA.SGI.WebLogisticaUtiles.Bussness\obj\Debug\LCSA.SGI.WebLogisticaUtiles.Bussness.pdb

@@ -6,6 +6,8 @@ using System.ServiceModel;
 using System.ServiceModel.Web;
 using System.Text;
 
+
+using RestService.Dominio;
 namespace RestService
 {
     [ServiceContract]
@@ -13,7 +15,13 @@ namespace RestService
     {
 
         [OperationContract]
-        [WebGet(ResponseFormat = WebMessageFormat.Json)]
+        //[WebGet(ResponseFormat = WebMessageFormat.Json)]
+        [WebGet]
         string ObtenerSaludo();
+
+
+        [OperationContract]
+        [WebInvoke(Method="GET",UriTemplate="ListarUsuarios", ResponseFormat = WebMessageFormat.Json)]
+        List<Usuario> ListarUsuarios();
     }
 }
