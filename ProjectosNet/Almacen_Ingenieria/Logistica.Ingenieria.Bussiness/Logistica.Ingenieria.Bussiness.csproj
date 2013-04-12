@@ -54,7 +54,6 @@
     <Compile Include="BReporte.cs" />
     <Compile Include="BTablas.cs" />
     <Compile Include="BTransaccion.cs" />
-    <Compile Include="MateriaPrima\NReqMatProd.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

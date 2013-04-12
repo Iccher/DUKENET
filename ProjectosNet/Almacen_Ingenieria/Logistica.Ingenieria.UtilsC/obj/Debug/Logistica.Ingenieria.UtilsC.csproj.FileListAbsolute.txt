@@ -43,3 +43,8 @@ C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen
 C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\Logistica.Ingenieria.UtilsC.dll
 C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\Logistica.Ingenieria.UtilsC.pdb
+E:\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\bin\Debug\Logistica.Ingenieria.UtilsC.dll
+E:\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\bin\Debug\Logistica.Ingenieria.UtilsC.pdb
+E:\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\ResolveAssemblyReference.cache
+E:\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\Logistica.Ingenieria.UtilsC.dll
+E:\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.UtilsC\obj\Debug\Logistica.Ingenieria.UtilsC.pdb

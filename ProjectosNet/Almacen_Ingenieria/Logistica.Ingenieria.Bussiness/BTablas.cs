@@ -13,11 +13,6 @@ namespace Logistica.Ingenieria.Bussiness
     {
         DTablas oDatTab = new DTablas();
         DRPGs oDatRPG = new DRPGs();
-
-        public int BPrograms()
-        {
-            return oDatRPG.DPrograms("LAPDCOV1", "C123456");
-        }
         public DataTable tbldetalle = new DataTable();
 
         public DataTable getSELECTLIBRE(string SQL)

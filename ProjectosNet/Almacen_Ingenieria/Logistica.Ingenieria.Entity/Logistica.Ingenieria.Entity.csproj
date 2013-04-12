@@ -55,14 +55,6 @@
     <Compile Include="EReqCabecera.cs" />
     <Compile Include="EReqDetalle.cs" />
     <Compile Include="EValeSalida.cs" />
-    <Compile Include="MateriaPrima\Class1.cs" />
-    <Compile Include="MateriaPrima\EAlmvPed.cs" />
-    <Compile Include="MateriaPrima\EMateria.cs" />
-    <Compile Include="MateriaPrima\EMateriaPrima.cs" />
-    <Compile Include="MateriaPrima\EMatReq.cs" />
-    <Compile Include="MateriaPrima\EPrograma.cs" />
-    <Compile Include="MateriaPrima\EVale.cs" />
-    <Compile Include="MateriaPrima\EVmp02.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

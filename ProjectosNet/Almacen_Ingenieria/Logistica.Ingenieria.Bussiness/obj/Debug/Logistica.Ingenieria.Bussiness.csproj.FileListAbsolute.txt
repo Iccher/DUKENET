@@ -88,3 +88,12 @@ C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen
 C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Bussiness\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Bussiness\obj\Debug\Logistica.Ingenieria.Bussiness.dll
 C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Bussiness\obj\Debug\Logistica.Ingenieria.Bussiness.pdb
+E:\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Bussiness\bin\Debug\Logistica.Ingenieria.Bussiness.dll
+E:\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Bussiness\bin\Debug\Logistica.Ingenieria.Bussiness.pdb
+E:\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Bussiness\bin\Debug\Logistica.Ingenieria.Data.dll
+E:\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Bussiness\bin\Debug\Logistica.Ingenieria.Entity.dll
+E:\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Bussiness\bin\Debug\Logistica.Ingenieria.Data.pdb
+E:\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Bussiness\bin\Debug\Logistica.Ingenieria.Entity.pdb
+E:\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Bussiness\obj\Debug\ResolveAssemblyReference.cache
+E:\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Bussiness\obj\Debug\Logistica.Ingenieria.Bussiness.dll
+E:\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Bussiness\obj\Debug\Logistica.Ingenieria.Bussiness.pdb

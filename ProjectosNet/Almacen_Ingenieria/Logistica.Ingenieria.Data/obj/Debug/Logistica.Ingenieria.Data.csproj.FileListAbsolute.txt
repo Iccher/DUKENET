@@ -64,3 +64,10 @@ C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen
 C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Data\bin\Debug\Logistica.Ingenieria.Entity.dll
 C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Data\bin\Debug\Logistica.Ingenieria.Entity.pdb
 C:\Users\LAPDIER1\Desktop\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Data\obj\Debug\Logistica.Ingenieria.Data.pdb
+E:\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Data\obj\Debug\ResolveAssemblyReference.cache
+E:\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Data\obj\Debug\Logistica.Ingenieria.Data.dll
+E:\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Data\obj\Debug\Logistica.Ingenieria.Data.pdb
+E:\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Data\bin\Debug\Logistica.Ingenieria.Data.dll
+E:\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Data\bin\Debug\Logistica.Ingenieria.Data.pdb
+E:\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Data\bin\Debug\Logistica.Ingenieria.Entity.dll
+E:\Proyecto Final Distribuidos NET\DUKENET-master\Almacen_Ingenieria\Logistica.Ingenieria.Data\bin\Debug\Logistica.Ingenieria.Entity.pdb

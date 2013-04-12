@@ -31,7 +31,7 @@ namespace Logistica.Ingenieria.Presentacion.Transaccion
 
         private void Frm_Productos_AI_A2_Load(object sender, EventArgs e)
         {
-            int i = ObjBus.BPrograms();
+            //int i = ObjBus.BPrograms();
 
             //animation.Open(ficheroAnimacion);
             dgvProductos.GridColor = Color.Red;

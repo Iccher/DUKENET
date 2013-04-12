@@ -213,48 +213,6 @@
     <Compile Include="Mantenimientos\Ordenes Trabajo\FrmOrdenTrabajo.Designer.cs">
       <DependentUpon>FrmOrdenTrabajo.cs</DependentUpon>
     </Compile>
-    <Compile Include="MateriaPrima\Form1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="MateriaPrima\Form1.designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="MateriaPrima\frmDescomposicion.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="MateriaPrima\frmDescomposicion.designer.cs">
-      <DependentUpon>frmDescomposicion.cs</DependentUpon>
-    </Compile>
-    <Compile Include="MateriaPrima\FrmPeriodo.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="MateriaPrima\FrmPeriodo.designer.cs">
-      <DependentUpon>FrmPeriodo.cs</DependentUpon>
-    </Compile>
-    <Compile Include="MateriaPrima\frmProgreso.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="MateriaPrima\frmProgreso.designer.cs">
-      <DependentUpon>frmProgreso.cs</DependentUpon>
-    </Compile>
-    <Compile Include="MateriaPrima\frmReporte.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="MateriaPrima\frmReporte.designer.cs">
-      <DependentUpon>frmReporte.cs</DependentUpon>
-    </Compile>
-    <Compile Include="MateriaPrima\frmReporteVale.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="MateriaPrima\frmReporteVale.designer.cs">
-      <DependentUpon>frmReporteVale.cs</DependentUpon>
-    </Compile>
-    <Compile Include="MateriaPrima\frmValeLibre.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="MateriaPrima\frmValeLibre.designer.cs">
-      <DependentUpon>frmValeLibre.cs</DependentUpon>
-    </Compile>
     <Compile Include="OtrosFormatos.cs" />
     <Compile Include="Otros\CorreoForm.cs">
       <SubType>Form</SubType>
@@ -501,35 +459,6 @@
       <DependentUpon>FrmOrdenTrabajo.cs</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="MateriaPrima\Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <EmbeddedResource Include="MateriaPrima\frmDescomposicion.resx">
-      <DependentUpon>frmDescomposicion.cs</DependentUpon>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <EmbeddedResource Include="MateriaPrima\FrmPeriodo.resx">
-      <DependentUpon>FrmPeriodo.cs</DependentUpon>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <EmbeddedResource Include="MateriaPrima\frmProgreso.resx">
-      <DependentUpon>frmProgreso.cs</DependentUpon>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <EmbeddedResource Include="MateriaPrima\frmReporte.resx">
-      <DependentUpon>frmReporte.cs</DependentUpon>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <EmbeddedResource Include="MateriaPrima\frmReporteVale.resx">
-      <DependentUpon>frmReporteVale.cs</DependentUpon>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <EmbeddedResource Include="MateriaPrima\frmValeLibre.resx">
-      <DependentUpon>frmValeLibre.cs</DependentUpon>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <EmbeddedResource Include="MateriaPrima\RepValeVER2.rdlc" />
     <EmbeddedResource Include="Otros\CorreoForm.resx">
       <DependentUpon>CorreoForm.cs</DependentUpon>
       <SubType>Designer</SubType>

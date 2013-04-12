@@ -478,7 +478,7 @@ namespace Logistica.Ingenieria.Presentacion
         private void RQG13S_Click(object sender, EventArgs e)
         {
             this.Cursor = Cursors.WaitCursor;
-            int i = oBusTab.BPrograms();
+            //int i = oBusTab.BPrograms();
             Transaccion.Frm_Grupo frm = new Logistica.Ingenieria.Presentacion.Transaccion.Frm_Grupo();
             frm.variableForm = "CONSU";
             frm.ShowDialog();

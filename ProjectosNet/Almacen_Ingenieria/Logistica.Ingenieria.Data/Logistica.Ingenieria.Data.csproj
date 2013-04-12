@@ -62,7 +62,6 @@
     <Compile Include="DRPGs.cs" />
     <Compile Include="DTablas.cs" />
     <Compile Include="DTransacciones.cs" />
-    <Compile Include="MateriaPrima\DReqMatProd.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
